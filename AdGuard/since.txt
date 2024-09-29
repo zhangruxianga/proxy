@@ -1,0 +1,40 @@
+javdb.com##nav.sub-header:nth-child(3) > div.content
+javdb.com##nav.app-desktop-banner:first-child > div.container
+javdb.com###magnets > article.message.video-panel:first-child > div.message-body > div.top-meta:first-child
+sehuatang.org###n5_mohd
+sehuatang.org##div.n5_jujiao:nth-child(8) > div.n5_ggmk.cl:nth-child(4)
+mail.google.com###speedbump > div.xn
+wpzysq.com###body > div.container > div.row:nth-child(5) > div.col-lg-9.main:first-child > ul.notices.notices--block.js-notices:first-child > ul.layui-clear:nth-child(2) > li.xn_ad > a > img.lazy
+wpzysq.com###body > div.container > div.row:nth-child(5) > div.col-lg-9.main:first-child > ul.notices.notices--block.js-notices:first-child > ul.layui-clear:nth-child(2) > li.xn_ad
+wpzysq.com###body > div.container > div.row:nth-child(5) > div.col-lg-9.main:first-child > ul.notices.notices--block.js-notices:first-child > div:nth-child(3)
+wpzysq.com###notich
+sis001.com##div.wrapper:nth-child(3) > div.container.forum-container:first-child > div.alert.alert-success:nth-child(2)
+sis001.com###ad_mobileHeader > div.overdiv4:last-child
+laowang.vip###close
+laowangso.top##div.alert.alert-danger.alert-dismissible.text-center:first-child
+smart.mail.163.com###mailgg__10241024_0 > a:first-child > img
+mail.163.com###smartBottomAd
+bps.yzeiw.com###body > div.container > div.row > div.col-12 > div.alert.alert-warning.alert-dismissible.fade.show:first-child
+bps.yzeiw.com###body > div.container > div.row > div.col-12 > div.card.px-0:nth-child(5)
+bps.yzeiw.com###body > div.container > div.row > div.col-12 > div.card.px-0:nth-child(6)
+bps.yzeiw.com###body > div.container > div.row > div.col-12 > fieldset.mb-3:last-child
+bps.yzeiw.com###footer
+bps.yzeiw.com###body > div.container > div.row > div.col-12 > fieldset.mb-3:nth-child(3)
+bps.yzeiw.com###body > div.container > div.row > div.col-12 > form:nth-child(6) > div.card.card-threadlist:last-child > div.card-body:last-child > ul.list-unstyled.threadlist.mb-0 > li.media.thread.tap.top_3:nth-child(5) > div.media-body > div.subject.break-all:first-child
+bps.yzeiw.com###body > div.container > div.row > div.col-12 > form:nth-child(6) > div.card.card-threadlist:last-child > div.card-body:last-child > ul.list-unstyled.threadlist.mb-0 > li.media.thread.tap.top_3:nth-child(7) > div.media-body > div.subject.break-all:first-child
+bps.yzeiw.com###body > div.container > div.row > div.col-12 > form:nth-child(6) > div.card.card-threadlist:last-child > div.card-body:last-child > ul.list-unstyled.threadlist.mb-0 > li.media.thread.tap.top_3:nth-child(6) > div.media-body > div.subject.break-all:first-child
+bps.yzeiw.com###body > div.container > div.row > div.col-12 > form:nth-child(6) > div.card.card-threadlist:last-child > div.card-body:last-child > ul.list-unstyled.threadlist.mb-0 > li.media.thread.tap.top_3:nth-child(6) > div.media-body > div.d-flex.justify-content-between.small.mt-1:last-child
+bps.yzeiw.com###body > div.container > div.row > div.col-12 > form:nth-child(6) > div.card.card-threadlist:last-child > div.card-body:last-child > ul.list-unstyled.threadlist.mb-0 > li.media.thread.tap.top_3:nth-child(6) > div.media-body > div.d-flex.justify-content-between.small.mt-1:last-child
+bps.yzeiw.com###body > div.container > div.row > div.col-12 > form:nth-child(6) > div.card.card-threadlist:last-child > div.card-body:last-child > ul.list-unstyled.threadlist.mb-0 > li.media.thread.tap.top_3:nth-child(6) > div.media-body
+bps.yzeiw.com###body > div.container > div.row > div.col-12 > form:nth-child(6) > div.card.card-threadlist:last-child > div.card-body:last-child > ul.list-unstyled.threadlist.mb-0 > li.media.thread.tap.top_3:nth-child(7) > div.media-body:last-child
+bps.yzeiw.com###body > div.container > div.row > div.col-12 > form:nth-child(6) > div.card.card-threadlist:last-child > div.card-body:last-child > ul.list-unstyled.threadlist.mb-0 > li.media.thread.tap.top_3:nth-child(7)
+bps.yzeiw.com###body > div.container > div.row > div.col-12 > form:nth-child(6) > div.card.card-threadlist:last-child > div.card-body:last-child > ul.list-unstyled.threadlist.mb-0 > li.media.thread.tap.top_3:nth-child(5) > div.media-body
+bps.yzeiw.com###body > div.container > div.row > div.col-12 > form:nth-child(6) > div.card.card-threadlist:last-child > div.card-body:last-child > ul.list-unstyled.threadlist.mb-0 > li.media.thread.tap.top_3:nth-child(6)
+bps.yzeiw.com###body > div.container > div.row > div.col-12 > form:nth-child(6) > div.card.card-threadlist:last-child > div.card-body:last-child > ul.list-unstyled.threadlist.mb-0 > li.media.thread.tap.top_3:nth-child(5)
+bps.yzeiw.com###body > div.container > div.row > div.col-12 > div.card.card-thread:nth-child(4) > div.card-body > div.ads:nth-child(5)
+zh.stripchat.com###app > div.main-layout-main-right > div.user-level-notification.user-level-notification--almost-level-10.user-level-notification-league-grey:nth-child(2)
+zh.stripchat.com###app > div.main-layout-main-right > div.header-notifications-wrapper.header-notifications-wrapper--with-header-top:first-child > div.header-notifications > div.header-notification.header-notification-push
+javdb.com##section.section:nth-child(6) > div.container > div.site-announce.notification.is-warning:nth-child(2)
+laowangso.top###detail-ad-recommend-panel
+laowangso.top##div.container-fluid:nth-child(2) > div.row > div.col-md-6:nth-child(2) > div.panel.panel-default.detail-panel:nth-child(7)
+laowangso.top##div.container-fluid:nth-child(2) > div.row > div.col-md-6:nth-child(2) > div.panel.panel-default.detail-panel:nth-child(8)
