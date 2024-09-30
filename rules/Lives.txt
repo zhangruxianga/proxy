@@ -1,0 +1,7 @@
+ payload:
+ - '+.chaturbate.com'
+  - '+.highwebmedia.com'
+  - '+.mmcdn.com'
+  - '+.doppiocdn.live'
+  - '+.strpst.com'
+  - '+.stripchat.com'
