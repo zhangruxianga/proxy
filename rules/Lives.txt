@@ -5,3 +5,8 @@
   - '+.doppiocdn.live'
   - '+.strpst.com'
   - '+.stripchat.com'
+  - '+.live-video.net'
+  - '+.neolive.kr'
+  - '+.pandalive.co'
+  - '+.winktv.co'
+  - '+.afreecatv.com'
