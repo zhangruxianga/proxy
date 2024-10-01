@@ -2,6 +2,6 @@
 payload:
   - '+.afreecatv.com'
   - '+.doppiocdn.live'
-  - '+.live.mmcdn.com'
+  - '+.nrt.live.mmcdn.com'
   - '+.live-video.net'
   - '+.neolive.kr'
