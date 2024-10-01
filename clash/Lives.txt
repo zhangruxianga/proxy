@@ -2,7 +2,7 @@
 payload:
  - '+.chaturbate.com'
   - '+.highwebmedia.com'
-  - '+.gcp.gvt2.com'
+  - '+.lovense-api.com'
   - '+.nwr.mmcdn.com'
   - '+.uri.mmcdn.com'
   - '+.strpst.com'
