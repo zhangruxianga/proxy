@@ -1,0 +1,8 @@
+ # 直播大流量列表
+payload:
+  - DOMAIN-SUFFIX,afreecatv.com
+  - DOMAIN-SUFFIX,doppiocdn.live
+  - DOMAIN-SUFFIX,nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,live-video.net
+  - DOMAIN-SUFFIX,neolive.kr
