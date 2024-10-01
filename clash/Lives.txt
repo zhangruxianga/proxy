@@ -1,11 +1,7 @@
- # 直播小流量列表
+ # 直播大流量列表
 payload:
- - '+.chaturbate.com'
-  - '+.highwebmedia.com'
-  - '+.lovense-api.com'
-  - '+.nwr.mmcdn.com'
-  - '+.uri.mmcdn.com'
-  - '+.strpst.com'
-  - '+.stripchat.com'
-  - '+.pandalive.co'
-  - '+.winktv.co'
+  - '+.afreecatv.com'
+  - '+.doppiocdn.live'
+  - '+.live.mmcdn.com'
+  - '+.live-video.net'
+  - '+.neolive.kr'
