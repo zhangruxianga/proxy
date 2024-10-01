@@ -1,0 +1,11 @@
+ # 直播小流量列表
+payload:
+ - '+.chaturbate.com'
+  - '+.highwebmedia.com'
+  - '+.gcp.gvt2.com'
+  - '+.nwr.mmcdn.com'
+  - '+.uri.mmcdn.com'
+  - '+.strpst.com'
+  - '+.stripchat.com'
+  - '+.pandalive.co'
+  - '+.winktv.co'
