@@ -1,8 +1,14 @@
-# 直播大流量列表
+ # 直播大流量列表
 payload:
+  - DOMAIN-SUFFIX,chaturbate.com
+  - DOMAIN-SUFFIX,highwebmedia.com
+  - DOMAIN-SUFFIX,lovense-api.com
+  - DOMAIN-SUFFIX,mmcdn.com
+  - DOMAIN-SUFFIX,strpst.com
+  - DOMAIN-SUFFIX,stripchat.com
+  - DOMAIN-SUFFIX,pandalive.co
+  - DOMAIN-SUFFIX,winktv.co
   - DOMAIN-SUFFIX,afreecatv.com
   - DOMAIN-SUFFIX,doppiocdn.live
-  - DOMAIN-SUFFIX,edge6-nrt.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge6-sin.live.mmcdn.com
   - DOMAIN-SUFFIX,live-video.net
   - DOMAIN-SUFFIX,neolive.kr
