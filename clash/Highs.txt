@@ -5,6 +5,7 @@ payload:
   - '+.lovense-api.com'
   - '+.nwr.mmcdn.com'
   - '+.uri.mmcdn.com'
+  - '+.static.mmcdn.com'
   - '+.strpst.com'
   - '+.stripchat.com'
   - '+.pandalive.co'
