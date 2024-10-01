@@ -1,7 +1,11 @@
- # 直播大流量列表，要求稳定快
+# 直播小流量列表
 payload:
-  - '+.afreecatv.com'
-  - '+.doppiocdn.live'
-  - '+.live.mmcdn.com'
-  - '+.live-video.net'
-  - '+.neolive.kr'
+ - '+.chaturbate.com'
+  - '+.highwebmedia.com'
+  - '+.lovense-api.com'
+  - '+.nwr.mmcdn.com'
+  - '+.uri.mmcdn.com'
+  - '+.strpst.com'
+  - '+.stripchat.com'
+  - '+.pandalive.co'
+  - '+.winktv.co'
