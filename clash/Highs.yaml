@@ -9,6 +9,7 @@ payload:
   - DOMAIN-SUFFIX,nwr.mmcdn.com
   - DOMAIN-SUFFIX,camo.mmcdn.com
   - DOMAIN-SUFFIX,static.mmcdn.com
+  - DOMAIN-SUFFIX,report-uri.mmcdn.com
   - DOMAIN-SUFFIX,strpst.com
   - DOMAIN-SUFFIX,stripchat.com
   - DOMAIN-SUFFIX,edge-hls.doppiocdn.live
