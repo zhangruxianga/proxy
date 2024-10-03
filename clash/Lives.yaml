@@ -15,7 +15,21 @@ payload:
   - DOMAIN-SUFFIX,edge12-sin.live.mmcdn.com
   - DOMAIN-SUFFIX,edge13-sin.live.mmcdn.com
   - DOMAIN-SUFFIX,edge14-sin.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge15-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge16-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge17-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge18-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge19-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge20-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge21-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge22-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge23-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge24-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge25-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge26-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge27-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge28-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge29-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge30-sin.live.mmcdn.com
   - DOMAIN-SUFFIX,edge1-nrt.live.mmcdn.com
   - DOMAIN-SUFFIX,edge2-nrt.live.mmcdn.com
   - DOMAIN-SUFFIX,edge3-nrt.live.mmcdn.com
@@ -31,5 +45,20 @@ payload:
   - DOMAIN-SUFFIX,edge13-nrt.live.mmcdn.com
   - DOMAIN-SUFFIX,edge14-nrt.live.mmcdn.com
   - DOMAIN-SUFFIX,edge15-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge16-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge17-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge18-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge19-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge20-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge21-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge22-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge23-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge24-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge25-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge26-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge27-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge28-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge29-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge30-nrt.live.mmcdn.com
   - DOMAIN-SUFFIX,doppiocdn.live
   - DOMAIN-SUFFIX,live-video.net
