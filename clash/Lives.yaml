@@ -60,5 +60,34 @@ payload:
   - DOMAIN-SUFFIX,edge28-nrt.live.mmcdn.com
   - DOMAIN-SUFFIX,edge29-nrt.live.mmcdn.com
   - DOMAIN-SUFFIX,edge30-nrt.live.mmcdn.com
-  - DOMAIN-SUFFIX,doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-1.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-2.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-3.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-4.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-5.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-6.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-7.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-8.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-9.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-10.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-11.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-12.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-13.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-14.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-15.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-16.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-17.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-18.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-19.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-20.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-21.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-22.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-23.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-24.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-25.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-26.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-27.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-28.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-29.doppiocdn.live
+  - DOMAIN-SUFFIX,b-hls-30.doppiocdn.live
   - DOMAIN-SUFFIX,live-video.net
