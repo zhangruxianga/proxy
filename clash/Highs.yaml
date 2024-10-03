@@ -2,6 +2,8 @@
 payload:
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,chaturbate.com
+  - DOMAIN-SUFFIX,thumb.live.mmcdn.com
+  - DOMAIN-SUFFIX,jpeg.live.mmcdn.com
   - DOMAIN-SUFFIX,highwebmedia.com
   - DOMAIN-SUFFIX,lovense-api.com
   - DOMAIN-SUFFIX,mmcdn.com
