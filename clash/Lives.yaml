@@ -1,15 +1,15 @@
  # 直播大流量列表
 payload:
   - DOMAIN-SUFFIX,afreecatv.com
-  - DOMAIN-SUFFIX,edge1-sin.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge2-sin.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge3-sin.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge4-sin.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge5-sin.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge6-sin.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge7-sin.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge8-sin.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge9-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge01-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge02-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge03-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge04-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge05-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge06-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge07-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge08-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge09-sin.live.mmcdn.com
   - DOMAIN-SUFFIX,edge10-sin.live.mmcdn.com
   - DOMAIN-SUFFIX,edge11-sin.live.mmcdn.com
   - DOMAIN-SUFFIX,edge12-sin.live.mmcdn.com
@@ -30,15 +30,15 @@ payload:
   - DOMAIN-SUFFIX,edge28-sin.live.mmcdn.com
   - DOMAIN-SUFFIX,edge29-sin.live.mmcdn.com
   - DOMAIN-SUFFIX,edge30-sin.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge1-nrt.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge2-nrt.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge3-nrt.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge4-nrt.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge5-nrt.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge6-nrt.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge7-nrt.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge8-nrt.live.mmcdn.com
-  - DOMAIN-SUFFIX,edge9-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge01-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge02-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge03-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge04-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge05-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge06-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge07-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge08-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge09-nrt.live.mmcdn.com
   - DOMAIN-SUFFIX,edge10-nrt.live.mmcdn.com
   - DOMAIN-SUFFIX,edge11-nrt.live.mmcdn.com
   - DOMAIN-SUFFIX,edge12-nrt.live.mmcdn.com
