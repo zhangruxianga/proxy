@@ -1,6 +1,7 @@
  # 直播大流量列表
 payload:
   - DOMAIN-SUFFIX,afreecatv.com
+  - DOMAIN-SUFFIX,^(edge[1-99]-)sin.live.mmcdn.com$
   - DOMAIN-SUFFIX,edge1-sin.live.mmcdn.com
   - DOMAIN-SUFFIX,edge2-sin.live.mmcdn.com
   - DOMAIN-SUFFIX,edge3-sin.live.mmcdn.com
