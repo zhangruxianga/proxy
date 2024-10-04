@@ -60,6 +60,7 @@ payload:
   - DOMAIN-SUFFIX,edge28-nrt.live.mmcdn.com
   - DOMAIN-SUFFIX,edge29-nrt.live.mmcdn.com
   - DOMAIN-SUFFIX,edge30-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge-hls.doppiocdn.live
   - DOMAIN-SUFFIX,b-hls-01.doppiocdn.live
   - DOMAIN-SUFFIX,b-hls-02.doppiocdn.live
   - DOMAIN-SUFFIX,b-hls-03.doppiocdn.live
