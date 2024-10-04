@@ -1,7 +1,65 @@
  # 直播大流量列表
 payload:
   - DOMAIN-SUFFIX,afreecatv.com
-  - DOMAIN-SUFFIX,^(edge[1-99]-)sin.live.mmcdn.com$
+  - DOMAIN-SUFFIX,edge1-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge2-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge3-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge4-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge5-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge6-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge7-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge8-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge9-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge10-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge11-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge12-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge13-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge14-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge16-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge17-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge18-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge19-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge20-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge21-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge22-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge23-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge24-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge25-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge26-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge27-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge28-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge29-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge30-sin.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge1-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge2-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge3-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge4-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge5-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge6-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge7-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge8-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge9-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge10-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge11-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge12-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge13-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge14-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge15-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge16-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge17-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge18-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge19-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge20-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge21-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge22-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge23-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge24-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge25-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge26-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge27-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge28-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge29-nrt.live.mmcdn.com
+  - DOMAIN-SUFFIX,edge30-nrt.live.mmcdn.com
   - DOMAIN-SUFFIX,b-hls-01.doppiocdn.live
   - DOMAIN-SUFFIX,b-hls-02.doppiocdn.live
   - DOMAIN-SUFFIX,b-hls-03.doppiocdn.live
