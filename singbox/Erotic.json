@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        ".2048.cc",
+        ".2048.bio",
+        ".avfhd.com",
+        ".bfygzs.com",
+        ".bfygzs.store",
+        ".hjd2048.com",
+        ".javdb.com",
+        ".jdbstatic.com",
+        ".javfree.me",
+        ".laowang.vip",
+        ".moxing.show",
+        ".rjhome.me",
+        ".sis001.com",
+        ".sehuatang.org",
+        ".sehuatang.net"
+      ]
+    }
+  ]
+}
