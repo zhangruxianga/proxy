@@ -91,4 +91,14 @@ payload:
   - DOMAIN-SUFFIX,b-hls-28.doppiocdn.live
   - DOMAIN-SUFFIX,b-hls-29.doppiocdn.live
   - DOMAIN-SUFFIX,b-hls-30.doppiocdn.live
-  - DOMAIN-SUFFIX,live-video.net
+  - DOMAIN-SUFFIX,hls.live-video.net
+  - DOMAIN-SUFFIX,live001-ttvnw.akamaized.net
+  - DOMAIN-SUFFIX,live002-ttvnw.akamaized.net
+  - DOMAIN-SUFFIX,live003-ttvnw.akamaized.net
+  - DOMAIN-SUFFIX,live004-ttvnw.akamaized.net
+  - DOMAIN-SUFFIX,live005-ttvnw.akamaized.net
+  - DOMAIN-SUFFIX,live006-ttvnw.akamaized.net
+  - DOMAIN-SUFFIX,live007-ttvnw.akamaized.net
+  - DOMAIN-SUFFIX,live008-ttvnw.akamaized.net
+  - DOMAIN-SUFFIX,live009-ttvnw.akamaized.net
+  - DOMAIN-SUFFIX,live010-ttvnw.akamaized.net
