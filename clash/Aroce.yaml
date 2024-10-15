@@ -7,3 +7,4 @@ payload:
   - PROCESS-NAME,qbittorrent-nox
   - PROCESS-NAME,Transmission
   - PROCESS-NAME,transmission
+  - DOMAIN-KEYWORD,dl-a10b
