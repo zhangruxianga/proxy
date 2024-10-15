@@ -6,4 +6,5 @@ payload:
   - PROCESS-NAME,qbittorrent-nox
   - PROCESS-NAME,Transmission
   - PROCESS-NAME,transmission
+  - DOMAIN-SUFFIX,dav.mypikpak.com
   - DOMAIN-KEYWORD,dl-a10b-
