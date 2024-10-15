@@ -1,12 +1,10 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 payload:
-  - PROCESS-NAME,alist
   - PROCESS-NAME,aria2
   - PROCESS-NAME,aria2c
   - PROCESS-NAME,qbittorrent
   - PROCESS-NAME,qbittorrent-nox
   - PROCESS-NAME,Transmission
   - PROCESS-NAME,transmission
-  - DOMAIN-SUFFIX,dav.mypikpak.com
   - DOMAIN-KEYWORD,dl-a10b-
   - DOMAIN-KEYWORD,dl-z01a-
