@@ -7,4 +7,4 @@ payload:
   - PROCESS-NAME,qbittorrent-nox
   - PROCESS-NAME,Transmission
   - PROCESS-NAME,transmission
-  - DOMAIN-REGEX,dl-a10b-^(?i).mypikpak.com
+  - DOMAIN-SUFFIX,dl-a10b-0\d{3}.mypikpak.com
