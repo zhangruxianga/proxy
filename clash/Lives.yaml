@@ -3,7 +3,28 @@ payload:
   - DOMAIN-SUFFIX,afreecatv.com
   - DOMAIN-SUFFIX,hls.live-video.net
   - DOMAIN-KEYWORD,b-hls-
+  - DOMAIN-KEYWORD,ams.live.mmcdn.com
+  - DOMAIN-KEYWORD,atl.live.mmcdn.com
+  - DOMAIN-KEYWORD,aus.live.mmcdn.com
+  - DOMAIN-KEYWORD,ash.live.mmcdn.com
+  - DOMAIN-KEYWORD,bom.live.mmcdn.com
+  - DOMAIN-KEYWORD,bog.live.mmcdn.com
+  - DOMAIN-KEYWORD,chi.live.mmcdn.com
+  - DOMAIN-KEYWORD,fra.live.mmcdn.com
   - DOMAIN-KEYWORD,hel.live.mmcdn.com
-  - DOMAIN-KEYWORD,sin.live.mmcdn.com
+  - DOMAIN-KEYWORD,gru.live.mmcdn.com
+  - DOMAIN-KEYWORD,lax.live.mmcdn.com
+  - DOMAIN-KEYWORD,mad.live.mmcdn.com
+  - DOMAIN-KEYWORD,mia.live.mmcdn.com
+  - DOMAIN-KEYWORD,mxp.live.mmcdn.com
   - DOMAIN-KEYWORD,nrt.live.mmcdn.com
+  - DOMAIN-KEYWORD,phx.live.mmcdn.com
+  - DOMAIN-KEYWORD,rtm.live.mmcdn.com
+  - DOMAIN-KEYWORD,sea.live.mmcdn.com
+  - DOMAIN-KEYWORD,sof.live.mmcdn.com
+  - DOMAIN-KEYWORD,syd.live.mmcdn.com
+  - DOMAIN-KEYWORD,sin.live.mmcdn.com 
+  - DOMAIN-KEYWORD,slc.live.mmcdn.com
+  - DOMAIN-KEYWORD,tsa.live.mmcdn.com
+  - DOMAIN-KEYWORD,waw.live.mmcdn.com
   - DOMAIN-KEYWORD,ttvnw.akamaized.net
