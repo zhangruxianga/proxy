@@ -3,6 +3,8 @@ payload:
   - DOMAIN-SUFFIX,afreecatv.com
   - DOMAIN-SUFFIX,hls.live-video.net
   - DOMAIN-KEYWORD,b-hls-
+  - DOMAIN-KEYWORD,global.live.mmcdn.com
+  - DOMAIN-KEYWORD,backup.live.mmcdn.com
   - DOMAIN-KEYWORD,ams.live.mmcdn.com
   - DOMAIN-KEYWORD,atl.live.mmcdn.com
   - DOMAIN-KEYWORD,aus.live.mmcdn.com
