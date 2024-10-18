@@ -1,7 +1,7 @@
  # 直播大流量列表
 payload:
   - DOMAIN-SUFFIX,afreecatv.com
-  - DOMAIN-SUFFIX,*.live-video.net
-  - DOMAIN-SUFFIX,*.mmcdn.com
+  - DOMAIN-SUFFIX,live-video.net
+  - DOMAIN-SUFFIX,mmcdn.com
   - DOMAIN-KEYWORD,b-hls-
   - DOMAIN-KEYWORD,ttvnw.akamaized.net
