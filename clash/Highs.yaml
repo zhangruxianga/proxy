@@ -12,6 +12,4 @@ payload:
   - DOMAIN-SUFFIX,pandalive.co.kr
   - DOMAIN-SUFFIX,winktv.co.kr
   - DOMAIN-SUFFIX,neolive.kr
-  - DOMAIN-SUFFIX,playback.live-video.net
-  - DOMAIN-SUFFIX,global.poe.live-video.net
   - DOMAIN-SUFFIX,edge-hls.doppiocdn.live
