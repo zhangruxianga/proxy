@@ -2,12 +2,21 @@
 payload:
   - DOMAIN-SUFFIX,gstatic.com
   - DOMAIN-SUFFIX,chaturbate.com
+  - DOMAIN-SUFFIX,thumb.live.mmcdn.com
+  - DOMAIN-SUFFIX,jpeg.live.mmcdn.com
   - DOMAIN-SUFFIX,highwebmedia.com
   - DOMAIN-SUFFIX,lovense-api.com
+  - DOMAIN-SUFFIX,nwr.mmcdn.com
+  - DOMAIN-SUFFIX,www.mmcdn.com
+  - DOMAIN-SUFFIX,camo.mmcdn.com
+  - DOMAIN-SUFFIX,static.mmcdn.com
+  - DOMAIN-SUFFIX,report-uri.mmcdn.com
   - DOMAIN-SUFFIX,strpst.com
   - DOMAIN-SUFFIX,stripchat.com
   - DOMAIN-SUFFIX,edge-hls.doppiocdn.live
   - DOMAIN-SUFFIX,pandalive.co.kr
   - DOMAIN-SUFFIX,winktv.co.kr
   - DOMAIN-SUFFIX,neolive.kr
-  - DOMAIN-SUFFIX,edge-hls.doppiocdn.live
+  - DOMAIN-SUFFIX,playback.live-video.net
+  - DOMAIN-SUFFIX,global.poe.live-video.net
+  - DOMAIN-SUFFIX,edge-hls.doppiocdn.li
