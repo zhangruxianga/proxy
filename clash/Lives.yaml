@@ -2,6 +2,6 @@
 payload:
   - DOMAIN-SUFFIX,afreecatv.com
   - DOMAIN-SUFFIX,live-video.net
-  - DOMAIN-SUFFIX,mmcdn.com
+  - DOMAIN-KEYWORD,mmcdn.com
   - DOMAIN-KEYWORD,b-hls-
   - DOMAIN-KEYWORD,ttvnw.akamaized.net
