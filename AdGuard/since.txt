@@ -43,3 +43,6 @@ laowangso.top##div.container-fluid:nth-child(2) > div.row > div.col-md-6:nth-chi
 hjd2048.com###td_3733 > fieldset.mb-3
 hjd2048.com###main > fieldset.mb-3:nth-child(7)
 hjd2048.com###td_3733 > fieldset.mb-3
+hjd2048.com###main > fieldset.mb-3:nth-child(20)
+hjd2048.com###td_tpc > fieldset.mb-3:nth-child(9)
+hjd2048.com###td_tpc > fieldset.mb-3:nth-child(8)
