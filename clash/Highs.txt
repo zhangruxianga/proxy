@@ -13,5 +13,4 @@ payload:
   - '+.neolive.kr'
   - '+.live-video.net'
   - '+.doppiocdn.live'
-  - '+.akamaized.ne'
   - '+.afreecatv.com'
