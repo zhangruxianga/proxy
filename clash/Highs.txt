@@ -12,6 +12,6 @@ payload:
   - '+.winktv.co.kr'
   - '+.neolive.kr'
   - '+.live-video.net'
-  - '+.doppiocdn.li'
+  - '+.doppiocdn.live'
   - '+.akamaized.ne'
   - '+.afreecatv.com'
