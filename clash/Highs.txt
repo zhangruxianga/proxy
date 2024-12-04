@@ -14,3 +14,4 @@ payload:
   - '+.live-video.net'
   - '+.doppiocdn.live'
   - '+.afreecatv.com'
+  - '+.akamaized.net'
