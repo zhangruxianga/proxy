@@ -17,3 +17,5 @@ payload:
   - '+.sehuatang.net'
   - '+.kutikomiya.jp'
   - '+.cableav.tv'
+  - '+.moxing.vip'
+  - '+.moxing.app'
