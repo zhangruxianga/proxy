@@ -5,6 +5,7 @@ payload:
   - '+.avfhd.com'
   - '+.bfygzs.com'
   - '+.bfygzs.store'
+  - '+.cableav.tv'
   - '+.girls4u.app'
   - '+.hjd2048.com'
   - '+.javdb.com'
