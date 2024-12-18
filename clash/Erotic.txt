@@ -15,6 +15,7 @@ payload:
   - '+.moxing.vip'
   - '+.moxing.show'
   - '+.moxing.app'
+  - '+.rou.video'
   - '+.rjhome.me'
   - '+.sis001.com'
   - '+.sehuatang.org'
