@@ -5,3 +5,4 @@ payload:
   - '+.akamaized.net'
   - '+.live.mmcdn.com'
   - '+.doppiocdn.live'
+  - '+.doppiocdn.com'
