@@ -12,6 +12,7 @@ payload:
   - '+.sg-thumbnail-drive.mypikpak.com'
   - '+.access.mypikpak.com'
   - '+.config.mypikpak.com'
+  - '+.dav.mypikpak.com'
   - '+.user.mypikpak.com'
   - '+.api-drive.mypikpak.com'
   - 'mypikpak.com'
