@@ -7,6 +7,7 @@ payload:
   - '+.report-uri.mmcdn.com'
   - '+.thumb.live.mmcdn.com'
   - '+.jpeg.live.mmcdn.com'
+  - '+.camo.mmcdn.com'
   - '+.highwebmedia.com'
   - '+.lovense-api.com'
   - '+.strpst.com'
