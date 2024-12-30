@@ -21,3 +21,5 @@ payload:
   - '+.sehuatang.org'
   - '+.sehuatang.net'
   - '+.kutikomiya.jp'
+#机场
+  - '+.mlhnb.top'
