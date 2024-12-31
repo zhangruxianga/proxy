@@ -21,6 +21,3 @@ payload:
   - '+.sehuatang.org'
   - '+.sehuatang.net'
   - '+.kutikomiya.jp'
-#机场
-  - '+.no1.mlhnb.top'
-  - '+.api.stentvessel.top'
