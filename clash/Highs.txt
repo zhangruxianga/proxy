@@ -20,3 +20,4 @@ payload:
   - '+.no1.mlhnb.top'
   - '+.api.stentvessel.top'
   - '+.raw.githubusercontent.com'
+  - '+.mojie0201.xn'
