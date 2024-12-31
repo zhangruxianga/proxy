@@ -1,5 +1,5 @@
- # 直播高速列表
 payload:
+ # 直播高速列表
   - '+.gstatic.com'
   - '+.chaturbate.com'
   - '+.static.mmcdn.com'
@@ -15,3 +15,8 @@ payload:
   - '+.pandalive.co.kr'
   - '+.winktv.co.kr'
   - '+.neolive.kr'
+
+#机场
+  - '+.no1.mlhnb.top'
+  - '+.api.stentvessel.top'
+  - '+.raw.githubusercontent.com'
