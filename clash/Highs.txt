@@ -1,6 +1,5 @@
 payload:
  # 直播高速列表
-  - '+.gstatic.com'
   - '+.chaturbate.com'
   - '+.static.mmcdn.com'
   - '+.nwr.mmcdn.com'
