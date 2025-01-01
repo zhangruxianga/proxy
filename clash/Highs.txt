@@ -13,7 +13,7 @@ payload:
   - '+.cdn.lovense-api.com'
   - '+.display.lovense-api.com'
   - '+.display-customer.lovense-api.com'
-  - '+.edge-hls.doppiocdn.com'
+  - 'edge-hls.doppiocdn.com'
   - '+.img.strpst.com'
   - '+.sentry-public.stripchat.com'
   - '+.static-cdn.strpst.com'
