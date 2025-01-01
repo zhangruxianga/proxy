@@ -23,3 +23,6 @@ payload:
   - '+.no1.mlhnb.top'
   - '+.api.stentvessel.top'
   - '+.raw.githubusercontent.com'
+
+#其他
+  - '+.wiki.metacubex.one'
