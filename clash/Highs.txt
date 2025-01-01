@@ -25,4 +25,4 @@ payload:
   - '+.raw.githubusercontent.com'
 
 #其他
-  - '+.wiki.metacubex.one'
+  - 'wiki.metacubex.one'
