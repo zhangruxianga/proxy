@@ -4,5 +4,6 @@ payload:
   - '+.afreecatv.com'
   - '+.akamaized.net'
   - '*lax.live.mmcdn.com'
+  - '*aus.live.mmcdn.com'
   - '*.doppiocdn.live'
   - '*.doppiocdn.com'
