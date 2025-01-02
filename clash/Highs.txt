@@ -33,4 +33,4 @@ payload:
 
 #其他
   - 'wiki.metacubex.one'
-  - 'cdn.apkflash.net'
+  - '+.cdn.apkflash.net'
