@@ -2,6 +2,7 @@ payload:
 #补
   - '+.push.apple.com'
   - '+.pcms.apple.com'
+  - 'bag.itunes.apple.com.w.cdngslb.com'
 
 #apple
   - '+.a1.mzstatic.com'
