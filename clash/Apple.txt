@@ -1,6 +1,7 @@
 payload:
 #补
   - '+.push.apple.com'
+  - '+.pcms.apple.com'
 
 #apple
   - '+.a1.mzstatic.com'
