@@ -1,0 +1,38 @@
+payload:
+ # 直播高速列表
+  - '+.chaturbate.com'
+  - '+.static.mmcdn.com'
+  - '+.nwr.mmcdn.com'
+  - '+.report-uri.mmcdn.com'
+  - '+.thumb.live.mmcdn.com'
+  - '+.jpeg.live.mmcdn.com'
+  - '+.camo.mmcdn.com'
+  - 'realtime.pa.highwebmedia.com'
+  - 'static-pub.highwebmedia.com'
+  - '+.api.lovense-api.com'
+  - '+.apps.lovense-api.com'
+  - '+.cdn.lovense-api.com'
+  - '+.display.lovense-api.com'
+  - '+.display-customer.lovense-api.com'
+  - 'edge-hls.doppiocdn.com'
+  - '+.assets.strpst.com'
+  - '+.img.strpst.com'
+  - '+.static-cdn.strpst.com'
+  - '+.pxl.stripchat.com'
+  - '+.sentry-public.stripchat.com'
+  - '+.websocket.stripchat.com'
+  - '+.zh.stripchat.com'
+  - '+.pandalive.co.kr'
+  - '+.winktv.co.kr'
+  - '+.neolive.kr'
+
+#机场
+  - '+.no1.mlhnb.top'
+  - '+.api.stentvessel.top'
+  - 'mojie.cyou'
+  - 'vp1.pw'
+
+#其他
+  - 'raw.githubusercontent.com'
+  - 'wiki.metacubex.one'
+  - 'cdn.apkflash.net'
