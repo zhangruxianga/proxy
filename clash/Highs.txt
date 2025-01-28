@@ -33,6 +33,7 @@ payload:
   - 'vp1.pw'
 
 #其他
-  - 'raw.githubusercontent.com'
-  - 'wiki.metacubex.one'
-  - 'cdn.apkflash.net'
+  - '+.raw.githubusercontent.com'
+  - '+.wiki.metacubex.one'
+  - '+.cdn.apkflash.net'
+  - '+.qichiyu.com'
