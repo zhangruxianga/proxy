@@ -37,3 +37,4 @@ payload:
   - '+.wiki.metacubex.one'
   - '+.cdn.apkflash.net'
   - '+.qichiyu.com'
+  - '+.docker.ketches.cn'
