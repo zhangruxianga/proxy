@@ -26,6 +26,7 @@ payload:
   - '+.pandalive.co.kr'
   - '+.winktv.co.kr'
   - '+.neolive.kr'
+  - '+.camangels.com'
 
 #机场
   - '+.no1.mlhnb.top'
