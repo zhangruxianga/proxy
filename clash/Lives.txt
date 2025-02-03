@@ -3,6 +3,6 @@ payload:
   - '+.live-video.net'
   - '+.afreecatv.com'
   - '+.akamaized.net'
-  - '*.live.mmcdn.com'
+  - '+.mmcdn.com'
   - '+.doppiocdn.live'
   - '+.doppiocdn.com'
