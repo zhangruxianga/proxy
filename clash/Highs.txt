@@ -35,8 +35,9 @@ payload:
   - 'vp1.pw'
 
 #其他
+  - '+.cdn.androidcombo.com'
+  - '+.cdn.apkflash.net'
+  - '+.docker.ketches.cn'
+  - '+.qichiyu.com'
   - '+.raw.githubusercontent.com'
   - '+.wiki.metacubex.one'
-  - '+.cdn.apkflash.net'
-  - '+.qichiyu.com'
-  - '+.docker.ketches.cn'
