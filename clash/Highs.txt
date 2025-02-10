@@ -11,7 +11,6 @@ payload:
   - '+.api-edge.myfreecams.com'
   - '+.share-media.myfreecams.com'
   - '+.share-thumbs.myfreecams.com'
-  - '+.wchat60.myfreecams.com'
   - '+.nwr.mmcdn.com'
   - '+.report-uri.mmcdn.com'
   - '+.thumb.live.mmcdn.com'
