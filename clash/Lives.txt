@@ -7,3 +7,4 @@ payload:
   - '+.doppiocdn.live'
   - '+.doppiocdn.com'
   - '+.edgevideo.myfreecams.com'
+  - '+.myfreecams.com'
