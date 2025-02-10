@@ -40,4 +40,5 @@ payload:
   - '+.docker.ketches.cn'
   - '+.qichiyu.com'
   - '+.raw.githubusercontent.com'
+  - '+.subtitlecat.com'
   - '+.wiki.metacubex.one'
