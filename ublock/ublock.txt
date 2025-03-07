@@ -1,0 +1,12 @@
+! 2025年3月8日 https://javdb.com
+javdb.com##.sub-header
+javdb.com##.app-desktop-banner > .container
+javdb.com##.top-meta
+
+! 2025年3月8日 https://www.sehuatang.org
+www.sehuatang.org##.n5_mohd
+
+! 2025年3月8日 https://hjd2048.com
+hjd2048.com##.nav-grid
+hjd2048.com##.promo-container
+hjd2048.com##.movie-link
