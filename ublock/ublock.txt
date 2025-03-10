@@ -10,3 +10,14 @@ www.sehuatang.org##.n5_mohd
 hjd2048.com##.nav-grid
 hjd2048.com##.promo-container
 hjd2048.com##.movie-link
+
+! 2025年3月10日 https://subtitlecat.com
+subtitlecat.com##.t-banner-inner
+! 2025年3月10日 https://u3c3.com
+u3c3.com##div.panel-default.panel:nth-of-type(3)
+
+! 2025年3月10日 https://laowangso.top
+laowangso.top###\30 HMJVO60IEEUR
+laowangso.top###detail-ad-recommend-panel
+laowangso.top##div.detail-panel.panel-default.panel:nth-of-type(5)
+laowangso.top##div.detail-panel.panel-default.panel:nth-of-type(6)
