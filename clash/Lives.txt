@@ -1,10 +1,11 @@
-# 直播大流量列表
 payload:
-  - '+.live-video.net'
+# 直播大流量列表
+  - '+.hls.live-video.net'
   - '+.afreecatv.com'
   - '+.akamaized.net'
   - '*.live.mmcdn.com'
-  - '+.doppiocdn.live'
-  - '+.doppiocdn.com'
+  - '*.doppiocdn.live'
+  - '*.doppiocdn.com'
   - '+.edgevideo.myfreecams.com'
   - '+.myfreecams.com'
+  - '+.sooplive.co.kr'
