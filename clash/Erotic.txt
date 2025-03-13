@@ -1,5 +1,7 @@
 payload:
 # 情色网站
+  - '+.169bbs.online'
+  - '+.169bbs.com'
   - '+.2048.cc'
   - '+.2048.bio'
   - '+.avfhd.com'
@@ -12,8 +14,8 @@ payload:
   - '+.jdbstatic.com'
   - '+.javfree.me'
   - '+.laowang.vip'
-  - '+.moxing.app'
   - '+.moxing.vip'
+  - '+.moxing.app'
   - '+.moxing.chat'
   - '+.moxing.show'
   - '+.rou.video'
@@ -22,3 +24,15 @@ payload:
   - '+.sehuatang.org'
   - '+.sehuatang.net'
   - '+.kutikomiya.jp'
+  - '+.tiaokan.vip'
+  - '+.tiaokanwang.net'
+  - '+.tiaokanwang.store'
+  - '+.tiaokanwang.xyz'
+
+  - '+.badoinkvr.com'
+  - '+.jvrporn.com'
+  - '+.manyvids.com'
+  - '+.pornhub.com'
+  - '+.stripzvr.com'
+  - '+.vrcosplayx.com'
+  - '+.wankzvr.com'
