@@ -2,9 +2,6 @@
 +.hls.live-video.net
 +.afreecatv.com
 +.akamaized.net
-*.doppiocdn.live
-*.doppiocdn.com
-media-hls.doppiocdn.org
 +.edgevideo.myfreecams.com
 +.myfreecams.com
 +.sooplive.co.kr
@@ -13,6 +10,8 @@ media-hls.doppiocdn.org
 media-hls.doppiocdn.org
 media-hls.doppiocdn.com
 media-hls.doppiocdn.live
+media-hls.doppiocdn.media
+media-hls.doppiocdn.net
 
 #chaturbate
 edge1-global.live.mmcdn.com
