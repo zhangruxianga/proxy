@@ -19,6 +19,8 @@ deapi.sooplive.co.kr
 edge-hls.doppiocdn.live
 edge-hls.doppiocdn.com
 edge-hls.doppiocdn.org
+edge-hls.doppiocdn.media
+edge-hls.doppiocdn.net
 +.img.doppiocdn.com
 img-display.sooplive.co.kr
 +.img.strpst.com
