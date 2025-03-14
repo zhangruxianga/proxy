@@ -1,7 +1,6 @@
 # 直播高速列表
 afevent2.sooplive.co.kr
 analysis.sooplive.co.kr
-admin.img.sooplive.co.kr
 +.apps.lovense-api.com
 +.api-edge.myfreecams.com
 +.api.lovense-api.com
@@ -16,7 +15,6 @@ board.myfreecams.com
 +.cdn.lovense-api.com
 +.chaturbate.com
 collector1.sooplive.co.kr
-chat-6e0a4c70.sooplive.co.kr
 cinety.sooplive.co.kr
 deapi.sooplive.co.kr
 +.display.lovense-api.com
@@ -31,6 +29,7 @@ edge-hls.doppiocdn.net
 iflv14.sooplive.co.kr
 +.img.doppiocdn.com
 img-display.sooplive.co.kr
+*.img.sooplive.co.kr
 +.img.strpst.com
 +.jpeg.live.mmcdn.com
 live.sooplive.co.kr
