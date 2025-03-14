@@ -18,9 +18,10 @@ board.myfreecams.com
 collector1.sooplive.co.kr
 cinety.sooplive.co.kr
 deapi.sooplive.co.kr
-exlogcollector.sooplive.co.kr
 +.display.lovense-api.com
 +.display-customer.lovense-api.com
+eventapi.sooplive.co.kr
+exlogcollector.sooplive.co.kr
 edge-hls.doppiocdn.live
 edge-hls.doppiocdn.com
 edge-hls.doppiocdn.org
@@ -52,6 +53,7 @@ res.sooplive.co.kr
 +.share-thumbs.myfreecams.com
 sch.sooplive.co.kr
 +.sentry-public.stripchat.com
+*.sooplive.co.kr
 st.sooplive.co.kr
 +.static.mmcdn.com
 static.m.sooplive.co.kr
