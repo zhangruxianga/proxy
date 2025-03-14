@@ -57,6 +57,7 @@ stbbs.sooplive.co.kr
 videoimg.sooplive.co.kr
 vod.sooplive.co.kr
 +.websocket.stripchat.com
+websocket-centrifugo-v5.stripchat.com
 +.winktv.co.kr
 www.myfreecams.com
 www.sooplive.co.kr
