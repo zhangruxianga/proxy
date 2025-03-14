@@ -1,5 +1,7 @@
 # 直播高速列表
 afevent2.sooplive.co.kr
+analysis.sooplive.co.kr
+admin.img.sooplive.co.kr
 +.apps.lovense-api.com
 +.api-edge.myfreecams.com
 +.api.lovense-api.com
@@ -13,8 +15,10 @@ board.myfreecams.com
 +.camo.mmcdn.com
 +.cdn.lovense-api.com
 +.chaturbate.com
+collector1.sooplive.co.kr
 cinety.sooplive.co.kr
 deapi.sooplive.co.kr
+exlogcollector.sooplive.co.kr
 +.display.lovense-api.com
 +.display-customer.lovense-api.com
 edge-hls.doppiocdn.live
@@ -22,6 +26,7 @@ edge-hls.doppiocdn.com
 edge-hls.doppiocdn.org
 edge-hls.doppiocdn.media
 edge-hls.doppiocdn.net
+iflv14.sooplive.co.kr
 +.img.doppiocdn.com
 img-display.sooplive.co.kr
 +.img.strpst.com
@@ -50,10 +55,12 @@ sch.sooplive.co.kr
 st.sooplive.co.kr
 +.static.mmcdn.com
 static.m.sooplive.co.kr
+stimg.sooplive.co.kr
 +.static-cdn.strpst.com
 static-pub.highwebmedia.com
 +.superchat.live
 static.sooplive.co.kr
+static.file.sooplive.co.kr
 stbbs.sooplive.co.kr
 +.thumb.live.mmcdn.com
 videoimg.sooplive.co.kr
