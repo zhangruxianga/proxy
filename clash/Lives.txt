@@ -2,9 +2,11 @@
 +.hls.live-video.net
 +.afreecatv.com
 +.akamaized.net
-+.edgevideo.myfreecams.com
-+.myfreecams.com
 +.sooplive.co.kr
+
+#myfreecams
+edgevideo.myfreecams.com
+wchat31.myfreecams.com
 
 #stripchat
 media-hls.doppiocdn.org
