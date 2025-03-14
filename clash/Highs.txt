@@ -7,6 +7,7 @@ afevent2.sooplive.co.kr
 +.assets.strpst.com
 bridge.sooplive.co.kr
 bora.sooplive.co.kr
+board.myfreecams.com
 +.camfinder.com
 +.camangels.com
 +.camo.mmcdn.com
@@ -29,6 +30,7 @@ live.sooplive.co.kr
 liveimg.sooplive.co.kr
 livestream-manager.sooplive.co.kr
 login.sooplive.co.kr
+m.myfreecams.com
 +.neolive.kr
 +.nwr.mmcdn.com
 noti.sooplive.co.kr
