@@ -2,7 +2,6 @@
 +.hls.live-video.net
 +.afreecatv.com
 +.akamaized.net
-+.sooplive.co.kr
 
 #stripchat
 media-hls.doppiocdn.org
@@ -10,6 +9,9 @@ media-hls.doppiocdn.com
 media-hls.doppiocdn.live
 media-hls.doppiocdn.media
 media-hls.doppiocdn.net
+
+#sooplive.co.kr
+live-global-cdn-v02.sooplive.co.kr
 
 #myfreecams
 edgevideo.myfreecams.com
