@@ -53,7 +53,6 @@ res.sooplive.co.kr
 +.share-thumbs.myfreecams.com
 sch.sooplive.co.kr
 +.sentry-public.stripchat.com
-*.sooplive.co.kr
 st.sooplive.co.kr
 +.static.mmcdn.com
 static.m.sooplive.co.kr
