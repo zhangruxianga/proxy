@@ -14,4 +14,4 @@
 +.dav.mypikpak.com
 +.user.mypikpak.com
 +.api-drive.mypikpak.com
-mypikpak.com
++.mypikpak.com
