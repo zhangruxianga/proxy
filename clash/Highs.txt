@@ -16,6 +16,7 @@ board.myfreecams.com
 +.cdn.lovense-api.com
 +.chaturbate.com
 collector1.sooplive.co.kr
+chat-6e0a4c70.sooplive.co.kr
 cinety.sooplive.co.kr
 deapi.sooplive.co.kr
 +.display.lovense-api.com
