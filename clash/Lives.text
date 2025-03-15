@@ -1,9 +1,11 @@
 #live-global-cdn-v02.sooplive.co.kr
 DOMAIN-REGEX,^live-global-cdn-[a-zA-Z0-9-]{1,254}\.sooplive\.co\.kr$
+DOMAIN-REGEX,^chat-[a-zA-Z0-9-]{1,254}\.sooplive\.co\.kr$
+DOMAIN-REGEX,^ogq-sticker-global-cdn-DOMAIN-REGEX,^.sooplive.co.kr
 
 DOMAIN-SUFFIX,edgevideo.myfreecams.com
 #wchat10.myfreecams.com
-DOMAIN-REGEX,^[a-zA-Z0-9-]{1,254}\.myfreecams\.com$
+DOMAIN-REGEX,^[wchat]{1,254}\.myfreecams\.com$
 
 DOMAIN-SUFFIX,media-hls.doppiocdn.org
 DOMAIN-SUFFIX,media-hls.doppiocdn.com
