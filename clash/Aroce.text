@@ -6,7 +6,7 @@ PROCESS-NAME,qbittorrent-nox
 PROCESS-NAME,Transmission
 PROCESS-NAME,transmission
   
-DOMAIN-REGEX,^dl-z01a-[a-zA-Z0-9-]{1,9999}\.mypikpak\.com$
-DOMAIN-REGEX,^dl-z01a-[a-zA-Z0-9-]{1,9999}\.mypikpak\.net$
-DOMAIN-REGEX,^dl-a10b-[a-zA-Z0-9-]{1,9999}\.mypikpak\.com$
-DOMAIN-REGEX,^dl-a10b-[a-zA-Z0-9-]{1,9999}\.mypikpak\.net$
+DOMAIN-REGEX,^dl-z01a-[a-zA-Z0-9-]{1,63}\.mypikpak\.com$
+DOMAIN-REGEX,^dl-z01a-[a-zA-Z0-9-]{1,63}\.mypikpak\.net$
+DOMAIN-REGEX,^dl-a10b-[a-zA-Z0-9-]{1,63}\.mypikpak\.com$
+DOMAIN-REGEX,^dl-a10b-[a-zA-Z0-9-]{1,63}\.mypikpak\.net$
