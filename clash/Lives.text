@@ -7,8 +7,8 @@ DOMAIN-REGEX,^live-global-cdn-[a-zA-Z0-9-]{1,63}\.sooplive\.co\.kr$
 DOMAIN-REGEX,^chat-[a-zA-Z0-9-]{1,63}\.sooplive\.co\.kr$
 DOMAIN-REGEX,^ogq-sticker-global-cdn-[a-zA-Z0-9-]{1,63}\.sooplive\.co\.kr$
 
+#myfreecams.com
 DOMAIN-SUFFIX,edgevideo.myfreecams.com
-#wchat10.myfreecams.com
 DOMAIN-REGEX,^[a-zA-Z0-9-]{1,63}\.myfreecams\.com$
 
 DOMAIN-REGEX,^media-hls.doppiocdn.(com|net|org|live|media)$
