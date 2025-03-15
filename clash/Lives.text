@@ -9,9 +9,9 @@ DOMAIN-REGEX,^ogq-sticker-global-cdn-[a-zA-Z0-9-]{1,63}\.sooplive\.co\.kr$
 
 #myfreecams.com
 DOMAIN-SUFFIX,edgevideo.myfreecams.com
-DOMAIN-REGEX,^[a-zA-Z0-9-]{1,63}\.myfreecams\.com$
+DOMAIN-REGEX,^[0-9-]{1,63}\.myfreecams\.com$
 
 DOMAIN-REGEX,^media-hls.doppiocdn.(com|net|org|live|media)$
 
 #mmcdn.com
-DOMAIN-REGEX,^[a-zA-Z0-9-]{1,63}-(ams|atl|aus|ash|bog|chi|fra|globa|gru|mia|mad|mxp|lax|nrt|phx|sea|sof|slc|sin|syd|tsa|waw)\.live\.mmcdn\.com$
+DOMAIN-REGEX,^edge[0-9-]{1,63}-(ams|atl|aus|ash|bog|chi|fra|globa|gru|mia|mad|mxp|lax|nrt|phx|sea|sof|slc|sin|syd|tsa|waw)\.live\.mmcdn\.com$
