@@ -1,17 +1,18 @@
 #hls.live-video.net
-DOMAIN-REGEX,^video-edge-[a-zA-Z0-9-]{1,254}\.[a-zA-Z0-9-]{1,63}\.hls\.live-video\.net$
-DOMAIN-REGEX,^[a-zA-Z0-9-]{1,63}-0\.playlist\.live-video\.net$
+DOMAIN-REGEX,^video-edge-[a-zA-Z0-9]{1,254}\.[a-zA-Z0-9]{1,63}\.hls\.live-video\.net$
+DOMAIN-REGEX,^apn[0-9]{1,63}-0\.playlist\.live-video\.net$
 
 #sooplive.co.kr
-DOMAIN-REGEX,^live-global-cdn-[a-zA-Z0-9-]{1,63}\.sooplive\.co\.kr$
-DOMAIN-REGEX,^chat-[a-zA-Z0-9-]{1,63}\.sooplive\.co\.kr$
-DOMAIN-REGEX,^ogq-sticker-global-cdn-[a-zA-Z0-9-]{1,63}\.sooplive\.co\.kr$
+DOMAIN-REGEX,^chat-[a-zA-Z0-9]{1,63}\.sooplive\.co\.kr$
+DOMAIN-REGEX,^live-global-cdn-v[0-9]{1,63}\.sooplive\.co\.kr$
+DOMAIN-REGEX,^vod-normal-global-cdn-z[0-9]{1,63}\.sooplive\.co\.kr$
+DOMAIN-REGEX,^ogq-sticker-global-cdn-z[0-9]{1,63}\.sooplive\.co\.kr$
 
 #myfreecams.com
 DOMAIN-SUFFIX,edgevideo.myfreecams.com
-DOMAIN-REGEX,^[0-9-]{1,63}\.myfreecams\.com$
+DOMAIN-REGEX,^[0-9]{1,63}\.myfreecams\.com$
 
-DOMAIN-REGEX,^media-hls.doppiocdn.(com|net|org|live|media)$
+DOMAIN-REGEX,^media-hls.doppiocdn.[a-z]{1,63}$
 
 #mmcdn.com
-DOMAIN-REGEX,^edge[0-9-]{1,63}-(ams|atl|aus|ash|bog|chi|fra|globa|gru|mia|mad|mxp|lax|nrt|phx|sea|sof|slc|sin|syd|tsa|waw)\.live\.mmcdn\.com$
+DOMAIN-REGEX,^edge[0-9]{1,63}-(ams|atl|aus|ash|bog|chi|fra|globa|gru|mia|mad|mxp|lax|nrt|phx|sea|sof|slc|sin|syd|tsa|waw)\.live\.mmcdn\.com$
