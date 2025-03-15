@@ -5,10 +5,11 @@ DOMAIN-SUFFIX,edgevideo.myfreecams.com
 #wchat10.myfreecams.com
 DOMAIN-REGEX,^[a-zA-Z0-9-]{1,254}\.myfreecams\.com$
 
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
-DOMAIN-SUFFIX,
+DOMAIN-SUFFIX,media-hls.doppiocdn.org
+DOMAIN-SUFFIX,media-hls.doppiocdn.com
+DOMAIN-SUFFIX,media-hls.doppiocdn.net
+DOMAIN-SUFFIX,media-hls.doppiocdn.live
+DOMAIN-SUFFIX,media-hls.doppiocdn.media
 
 #ams.live.mmcdn.com
 DOMAIN-REGEX,^[a-zA-Z0-9-]{1,254}-ams\.live\.mmcdn\.com$
