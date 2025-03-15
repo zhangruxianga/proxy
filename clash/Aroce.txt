@@ -1,3 +1,4 @@
 #直连补充列表(国内域名不解析时，防止走代理使用)
+payload:
 
-dl-z01a-[a-zA-Z0-9-]{1,9999}\.mypikpak\.com$
+   - DOMAIN-REGEX,^dl-z01a-[a-zA-Z0-9-]{1,9999}\.mypikpak\.com$
