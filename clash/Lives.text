@@ -1,7 +1,7 @@
-video-edge-b02154.tyo03.hls.live-video.net
+#hls.live-video.net
 DOMAIN-REGEX,^video-edge-[a-zA-Z0-9-]{1,254}\.[a-zA-Z0-9-]{1,254}\.hls\.live-video\.net$
 
-#live-global-cdn-v02.sooplive.co.kr
+#sooplive.co.kr
 DOMAIN-REGEX,^live-global-cdn-[a-zA-Z0-9-]{1,254}\.sooplive\.co\.kr$
 DOMAIN-REGEX,^chat-[a-zA-Z0-9-]{1,254}\.sooplive\.co\.kr$
 DOMAIN-REGEX,^ogq-sticker-global-cdn-[a-zA-Z0-9-]{1,254}\.sooplive\.co\.kr$
