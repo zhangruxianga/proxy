@@ -10,7 +10,7 @@ DOMAIN-REGEX,^ogq-sticker-global-cdn-z[0-9]{1,63}\.sooplive\.co\.kr$
 
 #myfreecams.com
 DOMAIN-SUFFIX,edgevideo.myfreecams.com
-DOMAIN-REGEX,^[0-9]{1,63}\.myfreecams\.com$
+DOMAIN-REGEX,^wchat[0-9]{1,63}\.myfreecams\.com$
 
 DOMAIN-REGEX,^media-hls.doppiocdn.[a-z]{1,63}$
 
