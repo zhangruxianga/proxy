@@ -43,6 +43,7 @@ noti.sooplive.co.kr
 +.pandalive.co.kr
 play.sooplive.co.kr
 +.playback.live-video.net
+player.stats.live-video.net
 preview.stream.sooplive.co.kr
 +.pxl.stripchat.com
 realtime.pa.highwebmedia.com
