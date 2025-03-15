@@ -1,5 +1,6 @@
 #hls.live-video.net
 DOMAIN-REGEX,^video-edge-[a-zA-Z0-9-]{1,254}\.[a-zA-Z0-9-]{1,254}\.hls\.live-video\.net$
+DOMAIN-REGEX,^[a-zA-Z0-9-]{1,254}-0\.playlist\.live-video\.net$
 
 #sooplive.co.kr
 DOMAIN-REGEX,^live-global-cdn-[a-zA-Z0-9-]{1,254}\.sooplive\.co\.kr$
