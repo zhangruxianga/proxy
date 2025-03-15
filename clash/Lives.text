@@ -15,4 +15,5 @@ DOMAIN-REGEX,^wchat[0-9]{1,63}\.myfreecams\.com$
 DOMAIN-REGEX,^media-hls.doppiocdn.[a-z]{1,63}$
 
 #mmcdn.com
-DOMAIN-REGEX,^edge[0-9]{1,63}-(ams|atl|aus|ash|bog|chi|fra|globa|gru|mia|mad|mxp|lax|nrt|phx|sea|sof|slc|sin|syd|tsa|waw)\.live\.mmcdn\.com$
+#(ams|atl|aus|ash|bog|chi|fra|globa|gru|mia|mad|mxp|lax|nrt|phx|sea|sof|slc|sin|syd|tsa|waw)
+DOMAIN-REGEX,^edge[0-9]{1,63}-[a-z]{1,63}\.live\.mmcdn\.com$
