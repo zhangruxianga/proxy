@@ -16,4 +16,4 @@ DOMAIN-REGEX,^media-hls.doppiocdn.[a-z]{1,63}$
 
 #mmcdn.com
 #(ams|atl|aus|ash|bog|chi|fra|globa|gru|mia|mad|mxp|lax|nrt|phx|sea|sof|slc|sin|syd|tsa|waw)
-DOMAIN-REGEX,^edge[0-9]{1,3}-[a-z]{1,3}\.live\.mmcdn\.com$
+DOMAIN-REGEX,^edge[0-9]{1,2}-[a-z]{1,3}\.live\.mmcdn\.com$
