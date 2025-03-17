@@ -41,6 +41,7 @@ m.myfreecams.com
 +.neolive.kr
 +.nwr.mmcdn.com
 noti.sooplive.co.kr
+ogq-sticker-global-cdn-z01.sooplive.co.kr
 +.pandalive.co.kr
 play.sooplive.co.kr
 player.live-video.net
