@@ -5,13 +5,4 @@
 +.hub5pnc.sandai.net
 +.hub5pr.v6.phub.sandai.net
 +.hubciddata.sandai.net
-+.rcv5-gcm-sp.mypikpak.com
-+.rcv5-sp.mypikpak.com
-+.res-etl-ssl.mypikpak.com
-+.sg-thumbnail-drive.mypikpak.com
-+.access.mypikpak.com
-+.config.mypikpak.com
-+.dav.mypikpak.com
-+.user.mypikpak.com
-+.api-drive.mypikpak.com
 +.mypikpak.com
