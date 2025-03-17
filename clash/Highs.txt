@@ -2,7 +2,11 @@
 +.camfinder.com
 +.camangels.com
 +.chaturbate.com
-+.edge-hls.doppiocdn.*
+edge-hls.doppiocdn.com
+edge-hls.doppiocdn.org
+edge-hls.doppiocdn.net
+edge-hls.doppiocdn.live
+edge-hls.doppiocdn.media
 +.highwebmedia.com
 +.img.doppiocdn.com
 +.lovense-api.com
