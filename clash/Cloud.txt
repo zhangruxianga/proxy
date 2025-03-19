@@ -1,4 +1,3 @@
-#pikpak
 +.dlandroid.rcv.sandai.net
 +.hub5idx.v6.shub.sandai.net
 +.hub5pn.wap.sandai.net
