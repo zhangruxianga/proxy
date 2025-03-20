@@ -33,3 +33,13 @@
 +.live-video.net
 
 +.sooplive.co.kr
+
+swag.live
+bytepluscdn.com
+dmca.com
+hotjar.com
+pusher.com
+sentry.io
+tobsnssdk.com
+zdassets.com
+zendesk.com
