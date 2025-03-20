@@ -10,7 +10,10 @@
 +.hjd2048.com
 +.javdb.com
 +.jdbstatic.com
++.dmm.co.jp
 +.javfree.me
+addthis.com
+onesignal.com
 +.laowang.vip
 +.moxing.vip
 +.moxing.app
