@@ -1,4 +1,5 @@
 #直连
 +.hifini.com
-+.wpzysq.com
 +.tiaokan08.com
++.wpzysq.com
++.yxssp.com
