@@ -1,3 +1,4 @@
-hifini.com
-wpzysq.com
-tiaokan08.com
+#直连
++.hifini.com
++.wpzysq.com
++.tiaokan08.com
