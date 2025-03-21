@@ -3,6 +3,7 @@
 +.2048.cc
 +.2048.bio
 +.hjd2048.com
+img.2048.spa
 img.aimgeek.com
 +.avfhd.com
 +.bfygzs.com
