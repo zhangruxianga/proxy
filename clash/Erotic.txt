@@ -36,6 +36,7 @@ qpic.ws
 +.sehuatang.org
 +.sehuatang.net
 lib.baomitu.com
+jo.0hax7.app
 ptmlx.wbx0x.com
 tju.7pzzv.us
 ttou.j03og.app
