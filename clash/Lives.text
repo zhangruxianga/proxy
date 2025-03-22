@@ -11,12 +11,14 @@ DOMAIN-REGEX,vod-normal-global-cdn-z[0-9]{2}.sooplive.co.kr
 DOMAIN-SUFFIX,edgevideo.myfreecams.com
 DOMAIN-REGEX,wchat[0-9]{1,2}.myfreecams.com
 
+#stripchat
 DOMAIN-REGEX,b-hls-[0-9]{1,2}.doppiocdn.[a-z]{3,5}
 DOMAIN-REGEX,media-hls.doppiocdn.[a-z]{3,5}
 
-#mmcdn.com
+#chaturbate
 #(ams|atl|aus|ash|bog|chi|fra|globa|global-backup|gru|mia|mad|mxp|lax|nrt|phx|sea|sof|slc|sin|syd|tsa|waw)
 DOMAIN-REGEX,edge[0-9]{1,2}-[a-z]{3,16}.live.mmcdn.com
 
+#swag
 DOMAIN,public.swag.live
 DOMAIN,watch-bp.swag.live
