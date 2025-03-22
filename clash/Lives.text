@@ -11,6 +11,7 @@ DOMAIN-REGEX,^vod-normal-global-cdn-z[0-9]{2}\.sooplive\.co\.kr$
 DOMAIN-SUFFIX,edgevideo.myfreecams.com
 DOMAIN-REGEX,^wchat[0-9]{1,2}\.myfreecams\.com$
 
+DOMAIN-REGEX,^b-hls-[0-9]{2}\.doppiocdn.[a-z]{1,5}$
 DOMAIN-REGEX,^media-hls.doppiocdn.[a-z]{1,5}$
 
 #mmcdn.com
