@@ -15,7 +15,7 @@ DOMAIN-REGEX,b-hls-[0-9]{1,2}.doppiocdn.[a-z]{3,5}
 DOMAIN-REGEX,media-hls.doppiocdn.[a-z]{3,5}
 
 #mmcdn.com
-#(ams|atl|aus|ash|bog|chi|fra|globa|gru|mia|mad|mxp|lax|nrt|phx|sea|sof|slc|sin|syd|tsa|waw)
+#(ams|atl|aus|ash|bog|chi|fra|globa|global-backup|gru|mia|mad|mxp|lax|nrt|phx|sea|sof|slc|sin|syd|tsa|waw)
 DOMAIN-REGEX,edge[0-9]{1,2}-[a-z]{3,16}.live.mmcdn.com
 
 DOMAIN,public.swag.live
