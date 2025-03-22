@@ -24,7 +24,7 @@ s7.addthis.com
 +.moxing.app
 +.moxing.chat
 +.moxing.show
-+.dddwkjn.lol
+cdn.dddwkjn.lol
 moxing.lol
 +.rou.video
 +.rjhome.me
