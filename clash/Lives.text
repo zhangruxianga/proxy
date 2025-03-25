@@ -4,8 +4,8 @@ DOMAIN-REGEX,video-edge-[a-zA-Z0-9]{6}.[a-zA-Z0-9]{5}.hls.live-video.net
 
 #sooplive.co.kr
 DOMAIN-REGEX,chat-[a-zA-Z0-9]{8}.sooplive.co.kr
-DOMAIN-REGEX,live-global-cdn-v[0-9]{2}.sooplive.co.kr
-DOMAIN-REGEX,vod-normal-global-cdn-z[0-9]{2}.sooplive.co.kr
+DOMAIN-REGEX,live-global-cdn-[a-zA-Z0-9]{3}.sooplive.co.kr
+DOMAIN-REGEX,vod-normal-global-cdn-[a-zA-Z0-9]{3}.sooplive.co.kr
 
 #myfreecams.com
 DOMAIN-SUFFIX,edgevideo.myfreecams.com
