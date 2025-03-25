@@ -1,6 +1,10 @@
 # 直播大流量列表
 +.hls.live-video.net
 
+#sooplive.co.kr
+live-global-cdn-v02.sooplive.co.kr
+vod-normal-global-cdn-b02.sooplive.co.kr
+
 #stripchat
 media-hls.doppiocdn.org
 media-hls.doppiocdn.com
@@ -46,10 +50,6 @@ b-hls-36.doppiocdn.live
 b-hls-37.doppiocdn.live
 b-hls-38.doppiocdn.live
 b-hls-39.doppiocdn.live
-
-#sooplive.co.kr
-live-global-cdn-v02.sooplive.co.kr
-vod-normal-global-cdn-b02.sooplive.co.kr
 
 #myfreecams
 edgevideo.myfreecams.com
