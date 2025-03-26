@@ -3,7 +3,7 @@
 
 #sooplive.co.kr
 live-global-cdn-v02.sooplive.co.kr
-vod-normal-global-cdn-b02.sooplive.co.kr
+vod-normal-global-cdn-z02.sooplive.co.kr
 
 #stripchat
 media-hls.doppiocdn.org
