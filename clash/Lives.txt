@@ -6,11 +6,12 @@ live-global-cdn-v02.sooplive.co.kr
 vod-normal-global-cdn-z02.sooplive.co.kr
 
 #stripchat
-media-hls.doppiocdn.org
 media-hls.doppiocdn.com
+media-hls.doppiocdn.org
+media-hls.doppiocdn.net
 media-hls.doppiocdn.live
 media-hls.doppiocdn.media
-media-hls.doppiocdn.net
+
 b-hls-01.doppiocdn.live
 b-hls-02.doppiocdn.live
 b-hls-03.doppiocdn.live
