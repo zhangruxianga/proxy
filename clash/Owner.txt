@@ -12,3 +12,4 @@
 +.docker.ketches.cn
 +.qichiyu.com
 +.subtitlecat.com
++.services.googleapis.cn
