@@ -12,5 +12,3 @@
 +.docker.ketches.cn
 +.qichiyu.com
 +.subtitlecat.com
-
-+.services.googleapis.cn #解决谷歌商店无法下载
