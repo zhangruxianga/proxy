@@ -56,16 +56,17 @@ snap.mfcimg.com
 +.sooplive.co.kr
 
 +.swag.live
-api-js.mixpanel.com
++.mixpanel.com
++.bytedance.com
 +.dmca.com
-sentry.io
-ekr.zdassets.com
-mcs.tobsnssdk.com
-js.pusher.com
-sf-unpkg.bytepluscdn.com
-static.zdassets.com
-static.hotjar.com
-swag-live.zendesk.com
++.sentry.io
++.tobsnssdk.com
++.pusher.com
++.hotjar.com
++.rtcplus.com
++.unpkg.com
++.zdassets.com
++.zendesk.com
 #T
 #U
 #V
