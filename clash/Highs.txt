@@ -18,7 +18,10 @@
 #L
 #M
 +.myfreecams.com
-+.mfcimg.com
+assets.mfcimg.com
+img.mfcimg.com
+mobile.mfcimg.com
+snap.mfcimg.com
 #N
 #O
 #P
@@ -54,10 +57,12 @@
 
 +.swag.live
 api-js.mixpanel.com
++.dmca.com
 sentry.io
 ekr.zdassets.com
 mcs.tobsnssdk.com
 js.pusher.com
+sf-unpkg.bytepluscdn.com
 static.zdassets.com
 static.hotjar.com
 swag-live.zendesk.com
@@ -68,5 +73,3 @@ swag-live.zendesk.com
 #X
 #Y
 #Z
-+.bytepluscdn.com
-+.dmca.com
