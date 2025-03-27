@@ -7,6 +7,5 @@
 +.pusher.com
 +.hotjar.com
 +.rtcplus.com
-+.unpkg.com
 +.zdassets.com
 +.zendesk.com
