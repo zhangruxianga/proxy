@@ -114,6 +114,7 @@ uts-api.itunes.apple.com
 +.wwwapplemusic.com
 
 #Apple
+.push.apple.com
 appldnld.apple.com.edgesuite.net
 apple-events.akamaized.net
 appleworldwidedeveloper.hb-api.omtrdc.net
