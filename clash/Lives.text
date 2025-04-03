@@ -12,7 +12,8 @@ DOMAIN-SUFFIX,edgevideo.myfreecams.com
 DOMAIN-REGEX,wchat[0-9]{1,2}.myfreecams.com
 
 #stripchat
-DOMAIN-REGEX,b-hls-[0-9]{1,2}.doppiocdn.[a-z]{3,5}
+DOMAIN-REGEX,b-hls-[0-9]{1,2}.doppiocdn.[a-z]{3,5} #香港
+DOMAIN-REGEX,b-as[0-9]{1,2}-turn.doppiocdn.[a-z]{3,5} #台湾
 DOMAIN-REGEX,media-hls.doppiocdn.[a-z]{3,5}
 
 #chaturbate
@@ -20,5 +21,4 @@ DOMAIN-REGEX,media-hls.doppiocdn.[a-z]{3,5}
 DOMAIN-REGEX,edge[0-9]{1,2}-[a-z]{3,16}.live.mmcdn.com
 
 #swag
-DOMAIN,public.swag.live
 DOMAIN,watch-bp.swag.live
