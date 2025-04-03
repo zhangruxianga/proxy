@@ -14,6 +14,7 @@ media-hls.doppiocdn.org
 media-hls.doppiocdn.net
 media-hls.doppiocdn.live
 media-hls.doppiocdn.media
+#台湾
 b-as1-turn.doppiocdn.com
 b-as2-turn.doppiocdn.com
 b-as3-turn.doppiocdn.com
@@ -53,6 +54,7 @@ b-as36-turn.doppiocdn.com
 b-as37-turn.doppiocdn.com
 b-as38-turn.doppiocdn.com
 b-as39-turn.doppiocdn.com
+#香港
 b-hls-01.doppiocdn.live
 b-hls-02.doppiocdn.live
 b-hls-03.doppiocdn.live
