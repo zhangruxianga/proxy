@@ -13,7 +13,7 @@ DOMAIN-REGEX,wchat[0-9]{1,2}.myfreecams.com
 
 #stripchat
 DOMAIN-REGEX,b-hls-[0-9]{1,2}.doppiocdn.[a-z]{3,5} #香港
-DOMAIN-REGEX,b-as[0-9]{1,2}-turn.doppiocdn.[a-z]{3,5} #台湾
+DOMAIN-REGEX,b-[a-z0-9]{3,4}-turn.doppiocdn.[a-z]{3,5} #台湾
 DOMAIN-REGEX,media-hls.doppiocdn.[a-z]{3,5}
 
 #chaturbate
