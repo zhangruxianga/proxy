@@ -4,8 +4,9 @@ m.chaturbate.com
 www.chaturbate.com
 realtime.pa.highwebmedia.com
 static-pub.highwebmedia.com
-appimage.static.mmcdn.com
 camo.mmcdn.com
 jpeg.live.mmcdn.com
 thumb.live.mmcdn.com
+appimage.static.mmcdn.com
+nwr.static.mmcdn.com
 web.static.mmcdn.com
