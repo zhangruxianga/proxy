@@ -12,3 +12,6 @@
 +.docker.ketches.cn
 +.qichiyu.com
 +.subtitlecat.com
++.asmrgay.org
++.asmrgay.com
+
