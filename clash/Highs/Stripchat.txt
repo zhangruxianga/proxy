@@ -1,6 +1,6 @@
 go.stripchat.com
-websocket-centrifugo-v5.stripchat.com
 sentry-public.stripchat.com
+websocket-centrifugo-v5.stripchat.com
 zh.stripchat.com
 websocket-centrifugo-v5.sc-apps.com
 go.camfinder.com
@@ -19,6 +19,7 @@ static-nss.xhcdn.com
 +.doppiocdn.net
 +.doppiocdn.live
 +.doppiocdn.media
+sr-client-cfg.amplitude.com
 metrics.doppiostreams.com
 creative.eizzih.com
 go.eizzih.com
@@ -27,8 +28,9 @@ loo3laej.com
 api.lovense-api.com
 apps.lovense-api.com
 cdn.lovense-api.comd
-isplay.lovense-api.com
+display.lovense-api.com
 display-customer.lovense-api.com
+isplay.lovense-api.com
 cdn.moengage.com
 assets.strpst.com
 static-cdn.strpst.com
