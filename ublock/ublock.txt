@@ -20,6 +20,5 @@
 ##.n5_mohd
 ##.ck8_appts
 ##.promo-banner-with-close-button.promo-banner--with-paymentico.promo-banner
-##.promo-banner-with-close-button.promo-banner--with-paymentico.promo-banner
 ##.ObxnS
 ##.mobile_footer_1.testss.bottom-ad-child
