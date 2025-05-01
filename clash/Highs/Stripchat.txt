@@ -27,7 +27,7 @@ main.exoclick.com
 loo3laej.com
 api.lovense-api.com
 apps.lovense-api.com
-cdn.lovense-api.comd
+cdn.lovense-api.com
 display.lovense-api.com
 display-customer.lovense-api.com
 isplay.lovense-api.com
