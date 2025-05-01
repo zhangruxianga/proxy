@@ -1,6 +1,8 @@
+swag.live
 api.swag.live
 public.swag.live
 watch.swag.live
+soketi.swag.live
 images.dmca.com
 sf-unpkg.bytepluscdn.com
 static.hotjar.com
