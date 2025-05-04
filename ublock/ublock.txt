@@ -25,4 +25,6 @@ www.sehuatang.org##div.cl.n5_htmk:nth-of-type(1)
 laowang.vip##.ck8_appts
 zh.camfinder.com##.promo-banner-with-close-button.promo-banner--with-paymentico.promo-banner
 zh.stripchat.com##.promo-banner-with-close-button.promo-banner--with-paymentico.promo-banner
+zh.stripchat.com###promo-banner-id-scBdForAll
+zh.stripchat.com##.user-level-notification-league-grey.user-level-notification--almost-level-10.user-level-notification
 mail.google.com##.ObxnS
