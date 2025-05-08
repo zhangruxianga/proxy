@@ -6,6 +6,7 @@ www.chaturbate.com
 
 d-fallback.pa.highwebmedia.com
 realtime.pa.highwebmedia.com
+internet-up.ably-realtime.com
 static-pub.highwebmedia.com
 camo.mmcdn.com
 jpeg.live.mmcdn.com
