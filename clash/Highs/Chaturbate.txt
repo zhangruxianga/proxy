@@ -9,6 +9,7 @@ realtime.pa.highwebmedia.com
 internet-up.ably-realtime.com
 static-pub.highwebmedia.com
 camo.mmcdn.com
+report-uri.mmcdn.com
 jpeg.live.mmcdn.com
 thumb.live.mmcdn.com
 appimage.static.mmcdn.com
