@@ -21,7 +21,6 @@
 #R
 #S
 #T
-+.tiaokan08.com
 #U
 #V
 #W
