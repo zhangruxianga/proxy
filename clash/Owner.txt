@@ -5,7 +5,6 @@
 +.go.s7.now.cc
 +.mojie.cyou
 +.vp1.pw
-+.sr.12306.me.uk
 +.cdn.androidcombo.com
 +.cdn.apkflash.net
 +.docker.ketches.cn
