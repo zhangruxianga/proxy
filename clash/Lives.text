@@ -11,11 +11,6 @@ DOMAIN-REGEX,vod-normal-global-cdn-[a-zA-Z0-9]{3}.sooplive.co.kr
 DOMAIN-SUFFIX,edgevideo.myfreecams.com
 DOMAIN-REGEX,wchat[0-9]{1,2}.myfreecams.com
 
-#stripchat
-DOMAIN-REGEX,b-hls-[0-9]{1,2}.doppiocdn.[a-z]{3,5}
-DOMAIN-REGEX,b-[a-z0-9]{3,4}-turn.doppiocdn.[a-z]{3,5}
-DOMAIN-REGEX,media-hls.doppiocdn.[a-z]{3,5}
-
 #chaturbate
 #(ams|atl|aus|ash|bog|chi|fra|globa|global-backup|gru|mia|mad|mxp|lax|nrt|phx|sea|sof|slc|sin|syd|tsa|waw)
 DOMAIN-REGEX,edge[0-9]{1,2}-[a-z]{3}.live.mmcdn.com
