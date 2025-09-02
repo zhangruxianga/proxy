@@ -1,0 +1,4 @@
+#stripchat
+DOMAIN-REGEX,b-hls-[0-9]{1,2}.doppiocdn.[a-z]{3,5}
+DOMAIN-REGEX,b-[a-z0-9]{3,4}-turn.doppiocdn.[a-z]{3,5}
+DOMAIN-REGEX,media-hls.doppiocdn.[a-z]{3,5}
