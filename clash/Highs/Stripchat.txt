@@ -1,3 +1,4 @@
+assets.striiiipst.com
 go.stripchat.com
 sentry-public.stripchat.com
 websocket-sp-v6.stripchat.com
