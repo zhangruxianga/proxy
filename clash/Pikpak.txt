@@ -5,5 +5,3 @@
 +.hub5pr.v6.phub.sandai.net
 +.hubciddata.sandai.net
 +.mypikpak.com
-43.156.146.72/32
-43.160.164.205/32
