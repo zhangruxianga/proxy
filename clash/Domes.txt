@@ -8,7 +8,6 @@
 #F
 #G
 #H
-+.hifini.com
 #I
 #J
 #K
@@ -24,7 +23,6 @@
 #U
 #V
 #W
-+.wpzysq.com
 #X
 #Y
 +.yxssp.com
