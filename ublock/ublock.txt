@@ -7,11 +7,11 @@ hjd2048.com##.movie-link
 hjd2048.com##.mobile_footer_1.testss.bottom-ad-child
 subtitlecat.com##.t-banner-inner
 u3c3.com##div.panel-default.panel:nth-of-type(3)
-laowangso.top###\30HMJVO60IEEUR
-laowangso.top###detail-ad-recommend-panel
-laowangso.top##div.search-panel.panel-default.panel:nth-of-type(3)
-laowangso.top##div.detail-panel.panel-default.panel:nth-of-type(5)
-laowangso.top##div.detail-panel.panel-default.panel:nth-of-type(6)
+###\30HMJVO60IEEUR
+###detail-ad-recommend-panel
+##div.search-panel.panel-default.panel:nth-of-type(3)
+##div.detail-panel.panel-default.panel:nth-of-type(5)
+##div.detail-panel.panel-default.panel:nth-of-type(6)
 skrbtvc.top###\30HMJVO60IEEUR
 skrbtvc.top###detail-ad-recommend-panel
 skrbtvc.top##div.no-border-radius.panel-default.panel:nth-of-type(4)
