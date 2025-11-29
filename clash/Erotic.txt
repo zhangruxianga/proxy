@@ -69,6 +69,7 @@ ttou.j03og.app
 #W
 #X
 +.x1080x.com
++.x999x.me
 #Y
 #Z
 
