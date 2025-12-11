@@ -1,0 +1,235 @@
+{
+  "providers": [
+    {
+      "type": "remote",
+      "tag": "神器🔶",
+      "health_check": {
+          "enabled": true,
+          "url": "https://www.gstatic.com/generate_204",
+          "interval": "10m",
+          "timeout": "3s"
+      },
+      "url": "https://sub.imtp.eu.org/api/",
+      "path": "./proxies/神器.yaml",
+      "exclude": "套餐|shenseven|✰✰|★★",
+      "download_detour": "Direct🟢",
+      "update_interval": "12h"
+    },
+    {
+      "type": "remote",
+      "tag": "最好💎",
+      "health_check": {
+          "enabled": false,
+          "url": "https://www.gstatic.com/generate_204",
+          "interval": "10m",
+          "timeout": "3s"
+      },
+      "url": "https://rcvws73c.pronetwork.top",
+      "path": "./proxies/最好.yaml",
+      "exclude": "自动最优",
+      "download_detour": "Direct🟢",
+      "update_interval": "12h"
+    },
+    {
+      "type": "remote",
+      "tag": "魔戒💫",
+      "health_check": {
+          "enabled": false,
+          "url": "https://www.gstatic.com/generate_204",
+          "interval": "10m",
+          "timeout": "3s"
+      },
+      "url": "https://mojie.co/api/v1",
+      "path": "./proxies/魔戒.yaml",
+      "exclude": "官网|自动|套餐|过滤",
+      "download_detour": "Forein🎯",
+      "update_interval": "12h"
+    },
+    {
+      "type": "remote",
+      "tag": "国际🚁",
+      "health_check": {
+          "enabled": false,
+          "url": "https://www.gstatic.com/generate_204",
+          "interval": "10m",
+          "timeout": "3s"
+      },
+      "url": "https://xtls.rprx.vision/api",
+      "path": "./proxies/国际.yaml",
+      "exclude": "以下为|回国|官网",
+      "download_detour": "Direct🟢",
+      "update_interval": "12h"
+    },
+    {
+      "type": "remote",
+      "tag": "快跑🏃",
+      "health_check": {
+          "enabled": false,
+          "url": "https://www.gstatic.com/generate_204",
+          "interval": "10m",
+          "timeout": "3s"
+      },
+      "url": "https://v1.kpy.edu.kg/",
+      "path": "./proxies/快跑.yaml",
+      "exclude": "官网|到期|公益|x2|x3|x4",
+      "download_detour": "Direct🟢",
+      "update_interval": "12h"
+    }
+  ],
+  "dns": {
+    "servers": [
+      {"tag": "local", "type": "udp", "server": "223.5.5.5"},
+      {"tag": "public", "type": "https", "server": "dns.alidns.com", "domain_resolver": "local"},
+      {"tag": "foreign", "type": "https", "server": "8.8.8.8", "detour": "Forein🎯"},
+      {"tag": "fakeip", "type": "fakeip", "inet4_range": "198.18.0.0/15", "inet6_range": "fc00::/18"}
+    ],
+    "rules": [
+      {"clash_mode": "direct", "server": "local"},
+      {"clash_mode": "global", "server": "fakeip"},
+      {"query_type": "HTTPS", "action": "reject"},
+      {"rule_set": "json-fakeip", "server": "local"},
+      {"query_type": ["A", "AAAA"], "server": "fakeip", "rewrite_ttl": 1},
+      {"rule_set": "geosite-cn", "server": "local"}
+    ],
+    "final": "foreign",
+    "client_subnet": "223.5.5.0/24",
+    "strategy": "prefer_ipv4",
+    "independent_cache": true,
+    "reverse_mapping": true
+  },
+  "outbounds": [
+    {"tag": "Aroce🚀", "type": "selector", "outbounds": ["Direct🟢", "Forein🎯"]},
+    {"tag": "Apple🍏", "type": "selector", "outbounds": ["Direct🟢", "Forein🎯"]},
+    {"tag": "Cloud📥", "type": "selector", "outbounds": ["Direct🟢", "Forein🎯"]},
+    {"tag": "Domes🌀", "type": "selector", "outbounds": ["Direct🟢"], "providers": ["快跑🏃", "国际🚁"], "include": "CN|徐州|武汉|济南"},
+    {"tag": "Erotic💢", "type": "selector", "providers": ["神器🔶", "国际🚁" , "魔戒💫"], "exclude": "CN|徐州|武汉|济南|剩余"},
+    {"tag": "Quick🍀", "type": "selector", "providers": ["国际🚁", "魔戒💫" , "最好💎"], "exclude": "CN|徐州|武汉|济南|剩余"},
+    {"tag": "Lives📻", "type": "selector", "providers": ["神器🔶", "国际🚁" , "魔戒💫"], "exclude": "CN|徐州|武汉|济南|剩余"},
+    {"tag": "Social💬", "type": "selector", "providers": ["快跑🏃", "国际🚁"], "exclude": "CN|徐州|武汉|济南|剩余"},
+    {"tag": "TikTok🎵", "type": "selector", "providers": ["神器🔶", "国际🚁"], "exclude": "CN|徐州|武汉|济南|剩余"},
+    {"tag": "Forein🎯", "type": "selector", "use_all_providers": true, "exclude": "CN|徐州|武汉|济南|剩余"},
+    {"tag": "FInaL🐠", "type": "selector", "outbounds": ["Direct🟢", "Forein🎯"]},
+    {"tag": "GLOBAL", "type": "selector", "outbounds": ["Direct🟢", "Forein🎯"]},
+    {"tag": "Direct🟢", "type": "direct"}
+  ],
+  "route": {
+    "rules": [
+      {"action": "sniff", "sniffer": ["http", "tls", "quic", "dns"]},
+      {"inbound": "dns-in", "action": "hijack-dns"},
+      {"ip_is_private": true, "outbound": "Direct🟢"},
+      {"clash_mode": "direct", "outbound": "Direct🟢"},
+      {"clash_mode": "global", "outbound": "FInaL🐳"},
+      {"rule_set": "geosite-apple", "outbound": "Apple🍏"},
+      {"rule_set": "json-aroce", "outbound": "Aroce🚀"},
+      {"rule_set": "json-erotic", "outbound": "Erotic💢"},
+      {"rule_set": "json-lives", "outbound": "Lives📻"},
+      {"rule_set": "json-quick", "outbound": "Quick🍀"},
+      {"rule_set": "json-pikpak", "outbound": "Cloud📥"},
+      {"rule_set": "geosite-telegram", "outbound": "Social💬"},
+      {"rule_set": "geosite-tiktok", "outbound": "TikTok🎵"},
+      {"rule_set": "json-owner", "outbound": "Forein🎯"},
+      {"rule_set": "geosite-youtube", "outbound": "Forein🎯"},
+      {"rule_set": "geosite-google", "outbound": "Forein🎯"},
+      {"rule_set": "geosite-github", "outbound": "Forein🎯"},
+      {"rule_set": "geosite-netflix", "outbound": "Forein🎯"},
+      {"rule_set": "geosite-!cn", "outbound": "Forein🎯"},
+      {"rule_set": "json-domes", "outbound": "Domes🌀"},
+      {"rule_set": "geosite-cn", "outbound": "Domes🌀"},
+      {"action": "resolve","match_only": true},
+      {"rule_set": "geoip-apple", "outbound": "Apple🍏"},
+      {"rule_set": "geoip-telegram", "outbound": "Social💬"},
+      {"rule_set": "geoip-netflix", "outbound": "Forein🎯"},
+      {"rule_set": "geoip-google", "outbound": "Forein🎯"},
+      {"rule_set": "geoip-cn", "outbound": "Domes🌀"}
+    ],
+    "rule_set": [
+      {"tag": "json-aroce", "type": "remote", "format": "source", "url": "https://raw.githubusercontent.com/zhangruxianga/proxy/refs/heads/master/momo/json-aroce.json", "download_detour": "Forein🎯", "path": "./rules/json-aroce.json"},
+      {"tag": "json-domes", "type": "remote", "format": "source", "url": "https://raw.githubusercontent.com/zhangruxianga/proxy/refs/heads/master/momo/json-domes.json", "download_detour": "Forein🎯", "path": "./rules/json-domes.json"},
+      {"tag": "json-erotic", "type": "remote", "format": "source", "url": "https://raw.githubusercontent.com/zhangruxianga/proxy/refs/heads/master/momo/json-erotic.json", "download_detour": "Forein🎯", "path": "./rules/json-erotic.json"},
+      {"tag": "json-fakeip", "type": "remote", "format": "source", "url": "https://raw.githubusercontent.com/zhangruxianga/proxy/refs/heads/master/momo/json-fakeip.json", "download_detour": "Forein🎯", "path": "./rules/json-fakeip.json"},
+      {"tag": "json-lives", "type": "remote", "format": "source", "url": "https://raw.githubusercontent.com/zhangruxianga/proxy/refs/heads/master/momo/json-lives.json", "download_detour": "Forein🎯", "path": "./rules/json-lives.json"},
+      {"tag": "json-owner", "type": "remote", "format": "source", "url": "https://raw.githubusercontent.com/zhangruxianga/proxy/refs/heads/master/momo/json-owner.json", "download_detour": "Forein🎯", "path": "./rules/json-owner.json"},
+      {"tag": "json-pikpak", "type": "remote", "format": "source", "url": "https://raw.githubusercontent.com/zhangruxianga/proxy/refs/heads/master/momo/json-pikpak.json", "download_detour": "Forein🎯", "path": "./rules/json-pikpak.json"},
+      {"tag": "json-quick", "type": "remote", "format": "source", "url": "https://raw.githubusercontent.com/zhangruxianga/proxy/refs/heads/master/momo/json-quick.json", "download_detour": "Forein🎯", "path": "./rules/json-quick.json"},
+      {"tag": "geosite-youtube", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/youtube.srs", "download_detour": "Forein🎯", "path": "./rules/geosite-youtube.srs"},
+      {"tag": "geosite-google", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/google.srs", "download_detour": "Forein🎯", "path": "./rules/geosite-google.srs"},
+      {"tag": "geosite-github", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/github.srs", "download_detour": "Forein🎯", "path": "./rules/geosite-github.srs"},
+      {"tag": "geosite-apple", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/apple.srs", "download_detour": "Forein🎯", "path": "./rules/geosite-apple.srs"},
+      {"tag": "geosite-telegram", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/telegram.srs", "download_detour": "Forein🎯", "path": "./rules/geosite-telegram.srs"},
+      {"tag": "geosite-tiktok", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/tiktok.srs", "download_detour": "Forein🎯", "path": "./rules/geosite-tiktok.srs"},
+      {"tag": "geosite-netflix", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/netflix.srs", "download_detour": "Forein🎯", "path": "./rules/geosite-netflix.srs"},
+      {"tag": "geosite-!cn", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/geolocation-!cn.srs", "download_detour": "Forein🎯", "path": "./rules/geosite-!cn.srs"},
+      {"tag": "geosite-cn", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geosite/cn.srs", "download_detour": "Forein🎯", "path": "./rules/geosite-cn.srs"},
+      {"tag": "geoip-google", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/google.srs", "download_detour": "Forein🎯", "path": "./rules/geoip-google.srs"},
+      {"tag": "geoip-apple", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo-lite/geoip/apple.srs", "download_detour": "Forein🎯", "path": "./rules/geoip-apple.srs"},
+      {"tag": "geoip-telegram", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/telegram.srs", "download_detour": "Forein🎯", "path": "./rules/geoip-telegram.srs"},
+      {"tag": "geoip-netflix", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/netflix.srs", "download_detour": "Forein🎯", "path": "./rules/geoip-netflix.srs"},
+      {"tag": "geoip-cn", "type": "remote", "format": "binary", "url": "https://raw.githubusercontent.com/MetaCubeX/meta-rules-dat/sing/geo/geoip/cn.srs", "download_detour": "Forein🎯", "path": "./rules/geoip-cn.srs"}
+    ],
+    "final": "FInaL🐠",
+    "default_domain_resolver": {"server": "public"}
+  },
+  "inbounds": [
+    {
+      "tag": "dns-in",
+      "type": "direct",
+      "listen": "::",
+      "listen_port": 1053
+    },
+    {
+      "tag": "http-in",
+      "type": "http",
+      "listen": "::",
+      "listen_port": 8080
+    },
+    {
+      "tag": "socks-in",
+      "type": "socks",
+      "listen": "::",
+      "listen_port": 1080
+    },
+    {
+      "tag": "redirect-in",
+      "type": "redirect",
+      "listen": "::",
+      "listen_port": 7890
+    },
+    {
+      "tag": "tproxy-in",
+      "type": "tproxy",
+      "listen": "::",
+      "listen_port": 7891
+    },
+    {
+      "tag": "tun-in",
+      "type": "tun",
+      "interface_name": "momo",
+      "address": [
+        "172.31.0.1/30",
+        "fdfe:dcba:9876::1/126"
+      ],
+      "auto_route": false,
+      "auto_redirect": false
+    }
+  ],
+  "experimental": {
+    "cache_file": {
+      "enabled": true,
+      "path": "/etc/momo/run/cache.db",
+      "store_fakeip": true
+    },
+    "clash_api": {
+      "external_controller": "0.0.0.0:9095",
+      "external_ui": "/etc/momo/run/ui",
+      "external_ui_download_url": "https://github.com/Zephyruso/zashboard/archive/refs/heads/gh-pages.zip",
+      "external_ui_download_detour": "Forein🎯",
+      "secret": "",
+      "default_mode": "rule"
+    }
+  },
+  "log": {
+    "disabled": false,
+    "level": "info",
+    "timestamp": true
+  }
+}
