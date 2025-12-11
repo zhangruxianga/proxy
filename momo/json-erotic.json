@@ -65,6 +65,11 @@
         "vrcosplayx.com",
         "wankzvr.com"
       ]
+    },
+    {
+      "domain_regex": [
+        "v.rn[^.].xyz"
+      ]
     }
   ]
 }
