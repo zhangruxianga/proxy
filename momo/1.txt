@@ -1,0 +1,11 @@
+domain
+匹配完整域名。
+
+domain_suffix
+匹配域名后缀。
+
+domain_keyword
+匹配域名关键字。
+
+domain_regex
+匹配域名正则表达式
