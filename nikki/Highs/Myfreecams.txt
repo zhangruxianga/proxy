@@ -1,0 +1,11 @@
+api-edge.myfreecams.com
+assets.myfreecams.com
+share-media.myfreecams.com
+m.myfreecams.com
+www.myfreecams.com
+
+assets.mfcimg.com
+img.mfcimg.com
+mobile.mfcimg.com
+share-assets.mfcimg.com
+snap.mfcimg.com
