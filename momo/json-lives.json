@@ -1,0 +1,35 @@
+{
+  "version": 3,
+  "rules": [
+    {
+      "domain_regex": [
+        #hls.live-video.net
+        "apn[^.]+-0.playlist.live-video.net",
+        "video-edge-[^.]+\\.[^.]+\\.hls.live-video.net",
+
+        #sooplive.co.kr
+        "chat-[^.]+\\.sooplive.co.kr",
+        "live-global-cdn-[^.]+\\.sooplive.co.kr",
+        "vod-normal-global-cdn-[^.]+\\.sooplive.co.kr",
+
+        #myfreecams.com
+        "wchat[^.]+\\.myfreecams.com",
+
+        #chaturbate
+        #(ams|atl|aus|ash|bog|chi|fra|globa|global-backup|gru|mia|mad|mxp|lax|nrt|phx|sea|sof|slc|sin|syd|tsa|waw)
+        "edge[^.]+-[^.]+\\.live.mmcdn.com",
+
+        #stripchat
+        "b-hls-[^.]+\\.doppiocdn\\.[^.]+$",
+        "b-[^.]+\\-turn.doppiocdn\\.[^.]+$",
+        "media-hls.doppiocdn\\.[^.]+$"
+      ]
+    },
+    {
+      "domain": [
+        "edgevideo.myfreecams.com",
+        "watch-bp.swag.live"
+      ]
+    }
+  ]
+}
