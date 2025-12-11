@@ -68,7 +68,7 @@
     },
     {
       "domain_regex": [
-        "v.rn[^.]+.xyz"
+        "v.rn[^.]+\\.xyz"
       ]
     }
   ]
