@@ -17,5 +17,10 @@ DOMAIN-REGEX,edge[0-9]{1,2}-[a-z]{3}.live.mmcdn.com
 DOMAIN-REGEX,edge[0-9]{1,2}-globa.live.mmcdn.com
 DOMAIN-REGEX,edge[0-9]{1,2}-global-backup.live.mmcdn.com
 
+#stripchat
+DOMAIN-REGEX,b-hls-[0-9]{1,2}.doppiocdn.[a-z]{3,5}
+DOMAIN-REGEX,b-[a-z0-9]{3,4}-turn.doppiocdn.[a-z]{3,5}
+DOMAIN-REGEX,media-hls.doppiocdn.[a-z]{3,5}
+
 #swag
 DOMAIN,watch-bp.swag.live
