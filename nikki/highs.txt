@@ -85,8 +85,10 @@ display-customer.lovense-api.com
 moengage.com
 cdn.moengage.com
 strpst.com
+img.strpst.com
 assets.strpst.com
 static-cdn.strpst.com
+assets.strpssts-ana.com
 ststandard.com
 
 #swag
