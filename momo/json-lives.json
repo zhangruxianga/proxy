@@ -6,6 +6,7 @@
         #hls.live-video.net
         "apn[^.]+-0.playlist.live-video.net",
         "video-edge-[^.]+\\.[^.]+\\.hls.live-video.net",
+        "[^.]+\\.j.cloudfront.hls.live-video.net",
 
         #sooplive.co.kr
         "chat-[^.]+\\.sooplive.co.kr",
