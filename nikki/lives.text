@@ -1,5 +1,6 @@
 #hls.live-video.net
 DOMAIN-REGEX,apn[0-9]{1,2}-0.playlist.live-video.net
+DOMAIN-REGEX,[a-zA-Z0-9]{12}.j.cloudfront.hls.live-video.net
 DOMAIN-REGEX,video-edge-[a-zA-Z0-9]{6}.[a-zA-Z0-9]{5}.hls.live-video.net
 
 #sooplive.co.kr
