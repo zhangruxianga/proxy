@@ -4,6 +4,10 @@
 +.169bbs.com
 +.2048.cc
 +.2048.bio
++.hjd2048.com
+img.2048.spa
+img.aimgeek.com
+pic.ylimg.com
 #A
 +.avfhd.com
 #B
@@ -18,9 +22,6 @@
 #G
 +.girls4u.app
 #H
-+.hjd2048.com
-img.2048.spa
-img.aimgeek.com
 #I
 #J
 +.javdb.com
