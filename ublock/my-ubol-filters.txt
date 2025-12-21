@@ -1,0 +1,31 @@
+169bbs.com##li.news_list_gg
+
+2048.cc###td_3733
+2048.cc##a.movie-link
+2048.cc##div.bottom.tac.bottom-ad-parent
+2048.cc##div.nav-container
+2048.cc##div.promo-container
+2048.cc##div.recs-wrapper
+
+hjd2048.com###td_3733
+hjd2048.com##div.bottom-ad-child.testss.mobile_footer_1
+hjd2048.com##div.movie-banner
+hjd2048.com##div.nav-grid
+hjd2048.com##div.promo-container
+
+javdb.com##a.button.is-info.is-outlined.is-small.mb-2
+javdb.com##div.top-meta
+javdb.com##nav.app-desktop-banner
+javdb.com##nav.sub-header
+javdb.com##nav[style] > div
+
+laowangvc.top###detail-ad-recommend-panel
+laowangvc.top##div.panel.panel-default.detail-panel:nth-of-type(6) > div
+laowangvc.top##div:nth-of-type(5) > div
+
+subtitlecat.com##div.t-banner-inner
+
+wpzysq.com###scrollingAlert
+wpzysq.com##div.adz
+
+www.sehuatang.org##div#n5_mohd.n5_mohd
