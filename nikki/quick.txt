@@ -41,6 +41,7 @@ share-assets.mfcimg.com
 snap.mfcimg.com
 
 #stripchat
+assets.chapturist.com
 assets.striiiipst.com
 go.stripchat.com
 sentry-public.stripchat.com
@@ -58,6 +59,7 @@ zh.xhamsterlive.com
 auth.xhamster.com
 static-ah.xhcdn.com
 static-nss.xhcdn.com
+static-proxy.strpst.com
 
 +.doppiocdn.com
 +.doppiocdn.org
