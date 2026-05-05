@@ -13,3 +13,6 @@
 +.asmrgay.org
 +.asmrgay.com
 +.friendlyelec.com
+
+#图片写真
++.nicesss.com
