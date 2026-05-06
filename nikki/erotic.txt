@@ -90,3 +90,4 @@ tu.ymawv.la
 +.luolcy.com
 +.ruyanhk.com
 +.ruyanhk.net
++.ruyancn.net
