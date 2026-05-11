@@ -18,6 +18,7 @@ thumb.live.mmcdn.com
 appimage.static.mmcdn.com
 nwr.static.mmcdn.com
 web.static.mmcdn.com
+web2.static.mmcdn.com
 
 #Korea
 +.sooplive.co.kr
