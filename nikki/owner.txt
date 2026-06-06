@@ -14,3 +14,4 @@
 +.asmrgay.com
 +.friendlyelec.com
 +.savefrom.net
+downloads.immortalwrt.org
