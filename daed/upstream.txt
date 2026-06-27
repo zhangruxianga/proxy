@@ -1,0 +1,184 @@
+upstream {
+  alidns: 'udp://223.5.5.5:53'
+  googledns: 'tcp+udp://8.8.8.8:53'
+}
+routing {
+  request {
+    qtype(AAAA) -> reject
+    qname(geosite:cn) -> alidns
+    fallback: googledns
+  }
+  response {
+    upstream(googledns) -> accept
+    ip(geoip:cn) && !qname(geosite:cn) -> googledns
+    fallback: accept
+  }
+}
+
+
+
+
+
+pname(NetworkManager, systemd-resolved, dnsmasq, systemd-networkd, chronyd, ntpd,dhcpcd) -> must_direct
+dip(geoip:private) -> direct
+dport(53) && !dip(223.5.5.5, 119.29.29.29, 114.114.114.114,180.184.1.1) -> proxy
+
+sip(192.168.11.0/24) -> cross
+
+domain(regex: 'dl-[a-z0-9]{4}-[0-9]{4}\.mypikpak\.[a-z]{3}$') -> direct
+
+# === hls.live-video.net ===
+domain(regex: 'apn[0-9]{1,2}-0\.playlist\.live-video\.net$') -> lives
+domain(regex: '[a-zA-Z0-9]{12}\.j\.cloudfront\.hls\.live-video\.net$') -> lives
+domain(regex: 'video-edge-[a-zA-Z0-9]{6}\.[a-zA-Z0-9]{5}\.hls\.live-video\.net$') -> lives
+# === sooplive.co.kr ===
+domain(regex: 'chat-[a-zA-Z0-9]{8}\.sooplive\.co\.kr$') -> lives
+domain(regex: 'live-global-cdn-[a-zA-Z0-9]{3}\.sooplive\.co\.kr$') -> lives
+domain(regex: 'vod-normal-global-cdn-[a-zA-Z0-9]{3}\.sooplive\.co\.kr$') -> lives
+# === myfreecams.com ===
+domain(suffix: edgevideo.myfreecams.com) -> lives
+domain(regex: 'wchat[0-9]{1,2}\.myfreecams\.com$') -> lives
+# === chaturbate (mmcdn.com) ===
+domain(regex: 'edge[0-9]{1,2}-[a-z]{3}\.live\.mmcdn\.com$') -> lives
+domain(regex: 'edge[0-9]{1,2}-globa\.live\.mmcdn\.com$') -> lives
+domain(regex: 'edge[0-9]{1,2}-global-backup\.live\.mmcdn\.com$') -> lives
+# === stripchat (doppiocdn) ===
+domain(regex: 'b-hls-[0-9]{1,2}\.doppiocdn\.[a-z]{3,5}$') -> lives
+domain(regex: 'b-[a-z0-9]{3,4}-turn\.doppiocdn\.[a-z]{3,5}$') -> lives
+domain(regex: 'media-hls\.doppiocdn\.[a-z]{3,5}$') -> lives
+# === swag ===
+domain(suffix: watch-bp.swag.live) -> lives
+
+
+# === Cam & Chaturbate ===
+domain(suffix: camangels.com) -> highs
+domain(suffix: chaturbate.com) -> highs
+domain(suffix: myfreecams.com) -> highs
+domain(suffix: c-fallback.pa.highwebmedia.com) -> highs
+domain(suffix: d-fallback.pa.highwebmedia.com) -> highs
+domain(suffix: e-fallback.pa.highwebmedia.com) -> highs
+domain(suffix: realtime.pa.highwebmedia.com) -> highs
+domain(suffix: static-pub.highwebmedia.com) -> highs
+domain(suffix: internet-up.ably-realtime.com) -> highs
+# === Korea ===
+domain(suffix: sooplive.co.kr) -> highs
+domain(suffix: pandalive.co.kr) -> highs
+domain(suffix: winktv.co.kr) -> highs
+domain(suffix: neolive.kr) -> highs
+domain(suffix: live-video.net) -> highs
+# === Stripchat ===
+domain(suffix: chapturist.com) -> highs
+domain(suffix: striiiipst.com) -> highs
+domain(suffix: stripchat.com) -> highs
+domain(suffix: strpst.com) -> highs
+domain(suffix: camfinder.com) -> highs
+domain(suffix: superchat.live) -> highs
+domain(suffix: xhamsterlive.com) -> highs
+domain(suffix: doppiocdn.com) -> highs
+domain(suffix: doppiocdn.org) -> highs
+domain(suffix: doppiocdn.net) -> highs
+domain(suffix: doppiocdn.live) -> highs
+domain(suffix: doppiocdn.media) -> highs
+domain(suffix: amplitude.com) -> highs
+domain(suffix: doppiostreams.com) -> highs
+domain(suffix: eizzih.com) -> highs
+domain(suffix: moengage.com) -> highs
+domain(suffix: ststandard.com) -> highs
+
+# === Swag ===
+domain(suffix: swag.live) -> highs
+domain(suffix: dmca.com) -> highs
+domain(suffix: bytepluscdn.com) -> highs
+domain(suffix: hotjar.com) -> highs
+domain(suffix: mixpanel.com) -> highs
+domain(suffix: pusher.com) -> highs
+domain(suffix: sentry.io) -> highs
+domain(suffix: tobsnssdk.com) -> highs
+domain(suffix: ekr.zdassets.com) -> highs
+domain(suffix: zdassets.com) -> highs
+domain(suffix: zendesk.com) -> highs
+
+domain(suffix: 169bbs.online) -> erotic
+domain(suffix: 169bbs.com) -> erotic
+domain(suffix: 2048.cc) -> erotic
+domain(suffix: 2048.bio) -> erotic
+domain(suffix: hjd2048.com) -> erotic
+domain(suffix: avfhd.com) -> erotic
+domain(suffix: bfygzs.com) -> erotic
+domain(suffix: bfygzs.store) -> erotic
+domain(suffix: cableav.tv) -> erotic
+domain(suffix: eroxjapanz.com) -> erotic
+domain(suffix: javdb.com) -> erotic
+domain(suffix: jdbstatic.com) -> erotic
+domain(suffix: gzankun.com) -> erotic
+domain(suffix: cc3001.dmm.co.jp) -> erotic
+domain(suffix: mc.yandex.ru) -> erotic
+domain(suffix: girls4u.app) -> erotic
+domain(suffix: javfree.me) -> erotic
+domain(suffix: cbox.ws) -> erotic
+domain(suffix: kutikomiya.jp) -> erotic
+domain(suffix: laowang.vip) -> erotic
+domain(suffix: moxing.vip) -> erotic
+domain(suffix: moxing.app) -> erotic
+domain(suffix: moxing.chat) -> erotic
+domain(suffix: moxing.show) -> erotic
+domain(suffix: rou.video) -> erotic
+domain(suffix: rjhome.me) -> erotic
+domain(suffix: sis001.com) -> erotic
+domain(suffix: sehuatang.net) -> erotic
+domain(suffix: sehuatang.org) -> erotic
+domain(suffix: x1080x.com) -> erotic
+domain(suffix: x999x.me) -> erotic
+domain(suffix: badoinkvr.com) -> erotic
+domain(suffix: jvrporn.com) -> erotic
+domain(suffix: manyvids.com) -> erotic
+domain(suffix: pornhub.com) -> erotic
+domain(suffix: stripzvr.com) -> erotic
+domain(suffix: vrcosplayx.com) -> erotic
+domain(suffix: wankzvr.com) -> erotic
+domain(suffix: nicesss.com) -> erotic
+domain(suffix: luolcy.club) -> erotic
+domain(suffix: luolcy.com) -> erotic
+domain(suffix: ruyanhk.com) -> erotic
+domain(suffix: ruyanhk.net) -> erotic
+domain(suffix: ruyancn.net) -> erotic
+domain(suffix: img.2048.spa) -> erotic
+domain(suffix: img.aimgeek.com) -> erotic
+domain(suffix: img.imgyx.com) -> erotic
+domain(suffix: img.yichkp.com) -> erotic
+domain(suffix: pic.ylimg.com) -> erotic
+domain(suffix: www.mymypic.net) -> erotic
+domain(suffix: s7.addthis.com) -> erotic
+domain(suffix: b.hatena.ne.jp) -> erotic
+domain(suffix: b.st-hatena.com) -> erotic
+domain(suffix: pixel-vault.com) -> erotic
+domain(suffix: moxing.lol) -> erotic
+domain(suffix: lib.baomitu.com) -> erotic
+domain(suffix: jo.0hax7.app) -> erotic
+domain(suffix: ptmlx.wbx0x.com) -> erotic
+domain(suffix: tju.7pzzv.us) -> erotic
+domain(suffix: ttou.j03og.app) -> erotic
+domain(suffix: tu.ymawv.la) -> erotic
+
+domain(geosite: telegram) -> social
+dip(geoip:telegram) -> social
+domain(geosite: twitter) -> social
+domain(geosite: facebook) -> social
+domain(geosite: instagram) -> social
+domain(geosite: whatsapp) -> social
+domain(geosite: tiktok) -> social
+domain(geosite: linkedin) -> social
+
+domain(geosite: apple) -> direct
+domain(geosite:tencent) -> direct
+domain(geosite:microsoft@cn) -> direct
+domain(geosite:steam@cn) -> direct
+domain(geosite: cn) -> direct
+dip(geoip: cn) -> direct
+
+domain(geosite: netflix) -> proxy
+domain(geosite: disney) -> proxy
+domain(geosite: github) -> proxy
+domain(geosite: youtube) -> proxy
+domain(geosite:geolocation-!cn) -> proxy
+fallback: proxy
