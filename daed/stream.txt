@@ -20,10 +20,9 @@ routing {
 
 
 pname(NetworkManager, systemd-resolved, dnsmasq, systemd-networkd, chronyd, ntpd,dhcpcd) -> must_direct
-dip(geoip:private) -> direct
-dport(53) && !dip(223.5.5.5, 119.29.29.29, 114.114.114.114,180.184.1.1) -> proxy
 
-sip(192.168.11.0/24) -> cross
+#sip(192.168.11.0/24) -> cross
+#sip(192.168.31.115/32) -> cross
 
 domain(regex: 'dl-[a-z0-9]{4}-[0-9]{4}\.mypikpak\.[a-z]{3}$') -> direct
 
@@ -47,6 +46,7 @@ domain(regex: 'b-hls-[0-9]{1,2}\.doppiocdn\.[a-z]{3,5}$') -> lives
 domain(regex: 'b-[a-z0-9]{3,4}-turn\.doppiocdn\.[a-z]{3,5}$') -> lives
 domain(regex: 'media-hls\.doppiocdn\.[a-z]{3,5}$') -> lives
 domain(regex: 'edge-hls\.doppiocdn\.[a-z]{3,5}$') -> lives
+
 # === swag ===
 domain(suffix: watch-bp.swag.live) -> lives
 
@@ -140,7 +140,14 @@ domain(suffix: luolcy.club) -> erotic
 domain(suffix: luolcy.com) -> erotic
 domain(suffix: ruyanhk.com) -> erotic
 domain(suffix: ruyanhk.net) -> erotic
+domain(suffix: ruyancn.com) -> erotic
 domain(suffix: ruyancn.net) -> erotic
+domain(suffix: ryyh.cc) -> erotic
+domain(suffix: ryyh.me) -> erotic
+domain(suffix: ryyh.net) -> erotic
+domain(suffix: ruyyh.com) -> erotic
+domain(suffix: ruyyh.org) -> erotic
+domain(suffix: ruyyh.xyz) -> erotic
 domain(suffix: img.2048.spa) -> erotic
 domain(suffix: img.aimgeek.com) -> erotic
 domain(suffix: img.imgyx.com) -> erotic
@@ -172,12 +179,18 @@ domain(geosite: apple) -> direct
 domain(geosite:tencent) -> direct
 domain(geosite:microsoft@cn) -> direct
 domain(geosite:steam@cn) -> direct
+dip(geoip:private) -> direct
 domain(geosite: cn) -> direct
 dip(geoip: cn) -> direct
 
 domain(geosite: netflix) -> proxy
+dip(geoip: netflix) -> proxy
 domain(geosite: disney) -> proxy
 domain(geosite: github) -> proxy
 domain(geosite: youtube) -> proxy
+domain(geosite: google) -> proxy
+dip(geoip: google) -> proxy
+domain(geosite: pikpak) -> proxy
 domain(geosite:geolocation-!cn) -> proxy
-fallback: proxy
+
+fallback: direct
