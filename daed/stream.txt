@@ -46,6 +46,7 @@ domain(regex: 'edge[0-9]{1,2}-global-backup\.live\.mmcdn\.com$') -> lives
 domain(regex: 'b-hls-[0-9]{1,2}\.doppiocdn\.[a-z]{3,5}$') -> lives
 domain(regex: 'b-[a-z0-9]{3,4}-turn\.doppiocdn\.[a-z]{3,5}$') -> lives
 domain(regex: 'media-hls\.doppiocdn\.[a-z]{3,5}$') -> lives
+domain(regex: 'edge-hls\.doppiocdn\.[a-z]{3,5}$') -> lives
 # === swag ===
 domain(suffix: watch-bp.swag.live) -> lives
 
