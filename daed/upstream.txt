@@ -49,31 +49,28 @@ domain(regex: 'media-hls\.doppiocdn\.[a-z]{3,5}$') -> lives
 # === swag ===
 domain(suffix: watch-bp.swag.live) -> lives
 
-
-# === Cam & Chaturbate ===
 domain(suffix: camangels.com) -> highs
 domain(suffix: chaturbate.com) -> highs
-domain(suffix: myfreecams.com) -> highs
-domain(suffix: c-fallback.pa.highwebmedia.com) -> highs
-domain(suffix: d-fallback.pa.highwebmedia.com) -> highs
-domain(suffix: e-fallback.pa.highwebmedia.com) -> highs
-domain(suffix: realtime.pa.highwebmedia.com) -> highs
-domain(suffix: static-pub.highwebmedia.com) -> highs
-domain(suffix: internet-up.ably-realtime.com) -> highs
-# === Korea ===
+domain(suffix: highwebmedia.com) -> highs
+domain(suffix: ably-realtime.com) -> highs
+domain(suffix: mmcdn.com) -> highs
 domain(suffix: sooplive.co.kr) -> highs
 domain(suffix: pandalive.co.kr) -> highs
 domain(suffix: winktv.co.kr) -> highs
 domain(suffix: neolive.kr) -> highs
 domain(suffix: live-video.net) -> highs
-# === Stripchat ===
+domain(suffix: myfreecams.com) -> highs
+domain(suffix: mfcimg.com) -> highs
 domain(suffix: chapturist.com) -> highs
 domain(suffix: striiiipst.com) -> highs
 domain(suffix: stripchat.com) -> highs
-domain(suffix: strpst.com) -> highs
+domain(suffix: sc-apps.com) -> highs
 domain(suffix: camfinder.com) -> highs
 domain(suffix: superchat.live) -> highs
 domain(suffix: xhamsterlive.com) -> highs
+domain(suffix: xhamster.com) -> highs
+domain(suffix: xhcdn.com) -> highs
+domain(suffix: strpst.com) -> highs
 domain(suffix: doppiocdn.com) -> highs
 domain(suffix: doppiocdn.org) -> highs
 domain(suffix: doppiocdn.net) -> highs
@@ -82,10 +79,12 @@ domain(suffix: doppiocdn.media) -> highs
 domain(suffix: amplitude.com) -> highs
 domain(suffix: doppiostreams.com) -> highs
 domain(suffix: eizzih.com) -> highs
+domain(suffix: googletagmanager.com) -> highs
+domain(suffix: loo3laej.com) -> highs
+domain(suffix: lovense-api.com) -> highs
 domain(suffix: moengage.com) -> highs
+domain(suffix: strpssts-ana.com) -> highs
 domain(suffix: ststandard.com) -> highs
-
-# === Swag ===
 domain(suffix: swag.live) -> highs
 domain(suffix: dmca.com) -> highs
 domain(suffix: bytepluscdn.com) -> highs
@@ -94,7 +93,6 @@ domain(suffix: mixpanel.com) -> highs
 domain(suffix: pusher.com) -> highs
 domain(suffix: sentry.io) -> highs
 domain(suffix: tobsnssdk.com) -> highs
-domain(suffix: ekr.zdassets.com) -> highs
 domain(suffix: zdassets.com) -> highs
 domain(suffix: zendesk.com) -> highs
 
