@@ -107,6 +107,7 @@ domain(suffix: bfygzs.com) -> erotic
 domain(suffix: bfygzs.store) -> erotic
 domain(suffix: cableav.tv) -> erotic
 domain(suffix: eroxjapanz.com) -> erotic
+domain(suffix: cloudflare-ech.com) -> erotic
 domain(suffix: javdb.com) -> erotic
 domain(suffix: jdbstatic.com) -> erotic
 domain(suffix: gzankun.com) -> erotic
@@ -169,7 +170,9 @@ domain(suffix: tu.ymawv.la) -> erotic
 domain(geosite: telegram) -> social
 dip(geoip:telegram) -> social
 domain(geosite: twitter) -> social
+dip(geoip:twitter) -> social
 domain(geosite: facebook) -> social
+dip(geoip:facebook) -> social
 domain(geosite: instagram) -> social
 domain(geosite: whatsapp) -> social
 domain(geosite: tiktok) -> social
