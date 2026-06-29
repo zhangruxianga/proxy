@@ -21,31 +21,31 @@ routing {
 
 pname(NetworkManager, systemd-resolved, dnsmasq, systemd-networkd, chronyd, ntpd,dhcpcd) -> must_direct
 
-#sip(192.168.11.0/24) -> cross
-#sip(192.168.31.115/32) -> cross
+sip(192.168.11.0/24) -> cross
+sip(192.168.31.115/32) -> cross
 
-domain(regex: 'dl-[a-z0-9]{4}-[0-9]{4}\.mypikpak\.[a-z]{3}$') -> direct
+domain(regex: '^dl-[a-z0-9]{4}-[0-9]{4}\.mypikpak\.[a-z]{3}$') -> direct
 
 # === hls.live-video.net ===
-domain(regex: 'apn[0-9]{1,2}-0\.playlist\.live-video\.net$') -> lives
-domain(regex: '[a-zA-Z0-9]{12}\.j\.cloudfront\.hls\.live-video\.net$') -> lives
-domain(regex: 'video-edge-[a-zA-Z0-9]{6}\.[a-zA-Z0-9]{5}\.hls\.live-video\.net$') -> lives
+domain(regex: '^apn[0-9]{1,2}-0\.playlist\.live-video\.net$') -> lives
+domain(regex: '^[a-zA-Z0-9]{12}\.j\.cloudfront\.hls\.live-video\.net$') -> lives
+domain(regex: '^video-edge-[a-zA-Z0-9]{6}\.[a-zA-Z0-9]{5}\.hls\.live-video\.net$') -> lives
 # === sooplive.co.kr ===
-domain(regex: 'chat-[a-zA-Z0-9]{8}\.sooplive\.co\.kr$') -> lives
-domain(regex: 'live-global-cdn-[a-zA-Z0-9]{3}\.sooplive\.co\.kr$') -> lives
-domain(regex: 'vod-normal-global-cdn-[a-zA-Z0-9]{3}\.sooplive\.co\.kr$') -> lives
+domain(regex: '^chat-[a-zA-Z0-9]{8}\.sooplive\.co\.kr$') -> lives
+domain(regex: '^live-global-cdn-[a-zA-Z0-9]{3}\.sooplive\.co\.kr$') -> lives
+domain(regex: '^vod-normal-global-cdn-[a-zA-Z0-9]{3}\.sooplive\.co\.kr$') -> lives
 # === myfreecams.com ===
 domain(suffix: edgevideo.myfreecams.com) -> lives
-domain(regex: 'wchat[0-9]{1,2}\.myfreecams\.com$') -> lives
+domain(regex: '^wchat[0-9]{1,2}\.myfreecams\.com$') -> lives
 # === chaturbate (mmcdn.com) ===
-domain(regex: 'edge[0-9]{1,2}-[a-z]{3}\.live\.mmcdn\.com$') -> lives
-domain(regex: 'edge[0-9]{1,2}-globa\.live\.mmcdn\.com$') -> lives
-domain(regex: 'edge[0-9]{1,2}-global-backup\.live\.mmcdn\.com$') -> lives
+domain(regex: '^edge[0-9]{1,2}-[a-z]{3}\.live\.mmcdn\.com$') -> lives
+domain(regex: '^edge[0-9]{1,2}-globa\.live\.mmcdn\.com$') -> lives
+domain(regex: '^edge[0-9]{1,2}-global-backup\.live\.mmcdn\.com$') -> lives
 # === stripchat (doppiocdn) ===
-domain(regex: 'b-hls-[0-9]{1,2}\.doppiocdn\.[a-z]{3,5}$') -> lives
-domain(regex: 'b-[a-z0-9]{3,4}-turn\.doppiocdn\.[a-z]{3,5}$') -> lives
-domain(regex: 'media-hls\.doppiocdn\.[a-z]{3,5}$') -> lives
-domain(regex: 'edge-hls\.doppiocdn\.[a-z]{3,5}$') -> lives
+domain(regex: '^b-hls-[0-9]{1,2}\.doppiocdn\.[a-z]{3,5}$') -> lives
+domain(regex: '^b-[a-z0-9]{3,4}-turn\.doppiocdn\.[a-z]{3,5}$') -> lives
+domain(regex: '^[a-z]{4,5}-hls\.doppiocdn\.[a-z]{3,5}$') -> lives
+
 
 # === swag ===
 domain(suffix: watch-bp.swag.live) -> lives
@@ -72,11 +72,7 @@ domain(suffix: xhamsterlive.com) -> highs
 domain(suffix: xhamster.com) -> highs
 domain(suffix: xhcdn.com) -> highs
 domain(suffix: strpst.com) -> highs
-domain(suffix: doppiocdn.com) -> highs
-domain(suffix: doppiocdn.org) -> highs
-domain(suffix: doppiocdn.net) -> highs
-domain(suffix: doppiocdn.live) -> highs
-domain(suffix: doppiocdn.media) -> highs
+domain(regex: 'doppiocdn\.[a-z]{3,5}$') -> highs
 domain(suffix: amplitude.com) -> highs
 domain(suffix: doppiostreams.com) -> highs
 domain(suffix: eizzih.com) -> highs
@@ -167,16 +163,22 @@ domain(suffix: tju.7pzzv.us) -> erotic
 domain(suffix: ttou.j03og.app) -> erotic
 domain(suffix: tu.ymawv.la) -> erotic
 
+domain(geosite:openai) -> aioxy
+domain(suffix: anthropic.com) -> aioxy
+domain(suffix: claude.ai) -> aioxy
+domain(suffix: z.ai) -> aioxy
+
+domain(geosite: twitter) -> cross
+dip(geoip:twitter) -> cross
+domain(geosite: facebook) -> cross
+dip(geoip:facebook) -> cross
+domain(geosite: instagram) -> cross
+domain(geosite: whatsapp) -> cross
+domain(geosite: tiktok) -> cross
+domain(geosite: linkedin) -> cross
+
 domain(geosite: telegram) -> social
 dip(geoip:telegram) -> social
-domain(geosite: twitter) -> social
-dip(geoip:twitter) -> social
-domain(geosite: facebook) -> social
-dip(geoip:facebook) -> social
-domain(geosite: instagram) -> social
-domain(geosite: whatsapp) -> social
-domain(geosite: tiktok) -> social
-domain(geosite: linkedin) -> social
 
 domain(geosite: apple) -> direct
 domain(geosite:tencent) -> direct
