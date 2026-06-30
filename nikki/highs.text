@@ -1,9 +1,9 @@
 # === Chaturbate ===
-DOMAIN: internet-up.ably-realtime.com
 DOMAIN-SUFFIX: camangels.com
 DOMAIN-SUFFIX: chaturbate.com
 DOMAIN-SUFFIX: highwebmedia.com
 DOMAIN-SUFFIX: mmcdn.com
+DOMAIN: internet-up.ably-realtime.com
 
 # === Korea Platforms (SoopLive, Panda, Wink, etc.) ===
 DOMAIN-SUFFIX: sooplive.co.kr
@@ -17,7 +17,6 @@ DOMAIN-SUFFIX: myfreecams.com
 DOMAIN-SUFFIX: mfcimg.com
 
 # === Stripchat & XHamsterLive ===
-DOMAIN: auth.xhamster.com
 DOMAIN-SUFFIX: chapturist.com
 DOMAIN-SUFFIX: striiiipst.com
 DOMAIN-SUFFIX: stripchat.com
@@ -36,7 +35,9 @@ DOMAIN-SUFFIX: doppiocdn.media
 DOMAIN-SUFFIX: doppiostreams.com
 DOMAIN-SUFFIX: eizzih.com
 DOMAIN-SUFFIX: loo3laej.com
+DOMAIN: auth.xhamster.com
 DOMAIN: websocket-centrifugo-v5.sc-apps.com
+DOMAIN-REGEX,doppiocdn.[a-z]{3,5}
 
 # === Swag ===
 DOMAIN-SUFFIX: swag.live
