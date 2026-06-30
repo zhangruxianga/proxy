@@ -42,8 +42,8 @@ share-assets.mfcimg.com
 snap.mfcimg.com
 
 #stripchat
-assets.chapturist.com
-assets.striiiipst.com
++.chapturist.com
++.striiiipst.com
 +.stripchat.com
 websocket-centrifugo-v5.sc-apps.com
 go.camfinder.com
