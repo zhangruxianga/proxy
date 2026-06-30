@@ -66,7 +66,6 @@ static-proxy.strpst.com
 amplitude.com
 cdn.amplitude.com
 sr-client-cfg.amplitude.com
-edge-hls.doppiocdn.com
 doppiostreams.com
 metrics.doppiostreams.com
 eizzih.com
