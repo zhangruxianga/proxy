@@ -44,11 +44,7 @@ snap.mfcimg.com
 #stripchat
 assets.chapturist.com
 assets.striiiipst.com
-go.stripchat.com
-sentry-public.stripchat.com
-websocket-sp-v6.stripchat.com
-websocket-centrifugo-v5.stripchat.com
-zh.stripchat.com
++.stripchat.com
 websocket-centrifugo-v5.sc-apps.com
 go.camfinder.com
 zh.camfinder.com
