@@ -15,4 +15,5 @@
 +.friendlyelec.com
 +.savefrom.net
 +.immortalwrt.org
++.kyarucloud.moe
 +.yyds.mmv.kr
