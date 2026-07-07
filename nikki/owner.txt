@@ -14,5 +14,5 @@
 +.asmrgay.com
 +.friendlyelec.com
 +.savefrom.net
-downloads.immortalwrt.org
++.immortalwrt.org
 +.yyds.mmv.kr
