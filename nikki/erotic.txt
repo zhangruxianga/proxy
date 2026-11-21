@@ -6,6 +6,7 @@
 +.2048.bio
 hjd2048.com
 img.2048.spa
++.oct2026pic.com
 img.aimgeek.com
 img.imgyx.com
 img.yichkp.com
@@ -47,7 +48,7 @@ pixel-vault.com
 +.moxing.chat
 +.moxing.show
 cdn.dddwkjn.lol
-moxing.lol
++.moxing.lol
 #N
 #O
 #P
@@ -59,10 +60,10 @@ moxing.lol
 +.sis001.com
 +.sehuatang.org
 +.sehuatang.net
-lib.baomitu.com
-jo.0hax7.app
-ptmlx.wbx0x.com
-tju.7pzzv.us
++.baomitu.com
++.0hax7.app
++.wbx0x.com
++.7pzzv.us
 +.djsnm.app
 +.djhdhs.us
 +.j03og.app
