@@ -29,8 +29,9 @@ www.mymypic.net
 #H
 #I
 #J
-mc.yandex.ru
 +.jinricp.net
++.jinricp.live
+mc.yandex.ru
 +.javfree.me
 +.cbox.ws
 cdn.onesignal.com
