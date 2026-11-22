@@ -35,7 +35,7 @@ mc.yandex.ru
 +.javfree.me
 +.onesignal.com
 +.cbox.ws
-s7.addthis.com
++.addthis.com
 #K
 +.kutikomiya.jp
 +.ymawv.la
