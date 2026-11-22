@@ -38,6 +38,7 @@ cdn.onesignal.com
 s7.addthis.com
 #K
 +.kutikomiya.jp
++.ymawv.la
 b.hatena.ne.jp
 b.st-hatena.com
 pixel-vault.com
@@ -69,7 +70,6 @@ cdn.dddwkjn.lol
 +.djhdhs.us
 +.j03og.app
 +.j03og.cc
-+.ymawv.la
 +.ewrewej.la
 #T
 #U
