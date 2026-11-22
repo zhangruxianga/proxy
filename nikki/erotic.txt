@@ -46,11 +46,15 @@ pixel-vault.com
 +.laowang.vip
 #M
 +.moxing.vip
++.mox.live
++.moxing.me
++.moxing.my
 +.moxing.app
++.moxing.lol
 +.moxing.chat
 +.moxing.show
++.moxing.rest
 cdn.dddwkjn.lol
-+.moxing.lol
 #N
 #O
 #P
